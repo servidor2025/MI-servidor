@@ -13707,3 +13707,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_ingot'
 [27May2025 00:00:55.399] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
 [27May2025 00:00:55.400] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 4(0) Rooms
 [27May2025 00:01:09.854] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[27May2025 00:03:45.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 00:03:45.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 00:07:02.378] [Worker-Main-23/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[27May2025 00:07:02.379] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-132, y=116, z=93}
+[27May2025 00:07:02.379] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-130, y=116, z=92}
+[27May2025 00:07:02.380] [Worker-Main-23/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[27May2025 00:07:02.380] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-132, y=117, z=99}
+[27May2025 00:07:02.380] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-129, y=117, z=101}
+[27May2025 00:07:02.380] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-128, y=116, z=99}
+[27May2025 00:07:02.435] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[27May2025 00:07:05.133] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[27May2025 00:08:45.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 00:08:45.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1579,7 +1579,9 @@
       "biomeswevegone:ironwood_gour": "2025-05-26 04:24:50 +0000",
       "biomeswevegone:amaranth_grassland": "2025-05-26 04:24:43 +0000",
       "biomeswevegone:prairie": "2025-05-26 02:59:17 +0000",
+      "biomeswevegone:ebony_woods": "2025-05-26 23:59:05 +0000",
       "biomeswevegone:allium_shrubland": "2025-05-26 02:59:54 +0000",
+      "biomeswevegone:baobab_savanna": "2025-05-27 00:07:41 +0000",
       "biomeswevegone:rainbow_beach": "2025-05-26 03:00:46 +0000"
     },
     "done": false
@@ -3349,6 +3351,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-27 00:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-27 00:04:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-05-26 23:36:18 +0000"
@@ -3378,6 +3392,13 @@
       "has_coal_block": "2025-05-26 23:32:30 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_druid_circle": "2025-05-27 00:00:11 +0000",
+      "entered_ruined_building": "2025-05-27 00:05:40 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
@@ -3493,6 +3514,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-05-26 23:59:32 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_preservation": {
     "criteria": {
       "has_magic_scroll": "2025-05-26 23:51:49 +0000"
@@ -3559,6 +3586,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_druid_circle": "2025-05-27 00:00:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-26 23:48:06 +0000"
@@ -3610,6 +3643,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-05-26 23:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-05-26 23:58:47 +0000"
     },
     "done": true
   },
