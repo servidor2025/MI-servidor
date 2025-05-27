@@ -1313,3 +1313,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_ingot'
 [27May2025 03:38:44.644] [Server thread/INFO] [Jade/]: Syncing config to THEDIOS13 (f31706f0-2254-3868-a64f-4c0143803166)
 [27May2025 03:38:47.445] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of THEDIOS13 (18)
 [27May2025 03:38:47.446] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to THEDIOS13
+[27May2025 03:59:05.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=-36, z=1074} BlockPos{x=106, y=-36, z=1073}
+[27May2025 03:59:22.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=101, y=-30, z=1064} BlockPos{x=98, y=-28, z=1064}
+[27May2025 03:59:24.255] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=-26, z=1064} BlockPos{x=95, y=-27, z=1064}
