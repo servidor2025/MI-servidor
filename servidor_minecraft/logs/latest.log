@@ -11,3 +11,7 @@
 [27May2025 00:18:07.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Deceived Hopes]
 [27May2025 00:24:35.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Labyrinth]
 [27May2025 00:36:53.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [The Lighthouse]
+[27May2025 00:43:46.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THEDIOS13 lost connection: Disconnected
+[27May2025 00:43:46.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 left the game
+[27May2025 00:43:46.906] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client THEDIOS13
+[27May2025 00:43:46.989] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
