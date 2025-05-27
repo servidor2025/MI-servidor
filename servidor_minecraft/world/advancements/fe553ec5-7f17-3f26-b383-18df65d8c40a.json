@@ -5284,6 +5284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-27 03:17:59 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
     "criteria": {
       "has_chaotic_hexahedron": "2025-05-27 03:08:36 +0000"

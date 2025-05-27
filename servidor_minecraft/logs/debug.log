@@ -13258,3 +13258,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_ingot'
 [27May2025 03:10:23.415] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/4117, l='ServerLevel[world]', x=7.63, y=70.00, z=895.98]
 [27May2025 03:15:10.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27May2025 03:15:10.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 03:20:10.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 03:20:10.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 03:25:10.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 03:25:10.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 03:26:03.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Take Aim]

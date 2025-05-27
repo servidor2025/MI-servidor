@@ -1303,3 +1303,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_ingot'
 [27May2025 03:08:36.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has reached the goal [Chaos Spawner]
 [27May2025 03:08:53.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has reached the goal [Chaos Spawner]
 [27May2025 03:10:23.415] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/4117, l='ServerLevel[world]', x=7.63, y=70.00, z=895.98]
+[27May2025 03:26:03.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Take Aim]
