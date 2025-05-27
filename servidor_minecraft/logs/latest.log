@@ -1316,3 +1316,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_ingot'
 [27May2025 03:59:05.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=-36, z=1074} BlockPos{x=106, y=-36, z=1073}
 [27May2025 03:59:22.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=101, y=-30, z=1064} BlockPos{x=98, y=-28, z=1064}
 [27May2025 03:59:24.255] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=-26, z=1064} BlockPos{x=95, y=-27, z=1064}
+[27May2025 04:00:28.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=-1, z=1051} BlockPos{x=65, y=0, z=1050}
+[27May2025 04:00:28.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=-1, z=1051} BlockPos{x=65, y=0, z=1050}
+[27May2025 04:00:28.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=-1, z=1051} BlockPos{x=65, y=0, z=1050}
+[27May2025 04:00:28.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=-1, z=1051} BlockPos{x=65, y=0, z=1050}
+[27May2025 04:04:07.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=20, z=1056} BlockPos{x=71, y=10, z=1059}
+[27May2025 04:08:05.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THEDIOS13 lost connection: Disconnected
+[27May2025 04:08:05.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 left the game
+[27May2025 04:08:05.496] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client THEDIOS13
+[27May2025 04:09:00.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [The Lighthouse]
