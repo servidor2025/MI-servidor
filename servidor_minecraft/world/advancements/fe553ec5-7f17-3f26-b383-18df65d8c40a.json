@@ -754,7 +754,8 @@
       "cooked_cod": "2025-05-26 03:07:14 +0000",
       "bread": "2025-05-26 03:46:53 +0000",
       "golden_apple": "2025-05-27 03:08:18 +0000",
-      "golden_carrot": "2025-05-26 03:54:25 +0000"
+      "golden_carrot": "2025-05-26 03:54:25 +0000",
+      "cooked_chicken": "2025-05-27 03:26:25 +0000"
     },
     "done": false
   },
@@ -5248,6 +5249,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-27 03:26:03 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/misc/skull_of_chaos": {
     "criteria": {
       "has_spawner_blade": "2025-05-27 03:07:08 +0000"
@@ -5299,6 +5306,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-27 03:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-27 03:33:51 +0000"
     },
     "done": true
   },

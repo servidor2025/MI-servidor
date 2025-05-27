@@ -1304,3 +1304,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_ingot'
 [27May2025 03:08:53.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has reached the goal [Chaos Spawner]
 [27May2025 03:10:23.415] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/4117, l='ServerLevel[world]', x=7.63, y=70.00, z=895.98]
 [27May2025 03:26:03.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Take Aim]
+[27May2025 03:33:51.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Suit Up]
+[27May2025 03:37:19.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THEDIOS13 lost connection: Timed out
+[27May2025 03:37:19.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 left the game
+[27May2025 03:37:19.055] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client THEDIOS13
+[27May2025 03:38:44.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THEDIOS13[/127.39.67.169:41187] logged in with entity id 10601 at (55.75629763121811, -54.0, 1070.5750617884296)
+[27May2025 03:38:44.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 joined the game
+[27May2025 03:38:44.644] [Server thread/INFO] [Jade/]: Syncing config to THEDIOS13 (f31706f0-2254-3868-a64f-4c0143803166)
+[27May2025 03:38:47.445] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of THEDIOS13 (18)
+[27May2025 03:38:47.446] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to THEDIOS13
