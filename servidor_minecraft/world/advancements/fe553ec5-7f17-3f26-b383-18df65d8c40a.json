@@ -750,6 +750,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-27 04:17:32 +0000",
+      "cooked_mutton": "2025-05-27 04:14:07 +0000",
       "cooked_beef": "2025-05-26 02:58:01 +0000",
       "cooked_cod": "2025-05-26 03:07:14 +0000",
       "bread": "2025-05-26 03:46:53 +0000",
@@ -5361,6 +5363,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-27 03:12:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-05-27 04:09:00 +0000"
     },
     "done": true
   },
