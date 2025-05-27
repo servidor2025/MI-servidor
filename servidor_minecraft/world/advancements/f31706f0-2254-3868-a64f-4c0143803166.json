@@ -5474,15 +5474,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-05-27 02:50:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-05-27 02:28:32 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-27 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-27 02:36:07 +0000"
     },
     "done": true
   },
@@ -5492,9 +5498,15 @@
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
+  "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
-      "kill_mimic": "2025-05-27 02:36:07 +0000"
+      "has_obsidian": "2025-05-27 02:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-27 02:50:27 +0000"
     },
     "done": true
   },
@@ -5510,15 +5522,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/respawn_anchor": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
-      "has_obsidian": "2025-05-27 02:43:11 +0000"
+      "has_polished_andesite": "2025-05-27 03:01:49 +0000"
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
-      "find_artifact": "2025-05-27 02:36:07 +0000"
+      "has_polished_andesite": "2025-05-27 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-27 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-27 03:01:49 +0000"
     },
     "done": true
   },
