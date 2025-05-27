@@ -63,3 +63,8 @@
 [27May2025 01:47:26.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has reached the goal [Fortuitous Militia]
 [27May2025 01:49:04.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has completed the challenge [Centennial]
 [27May2025 01:53:23.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Voluntary Exile]
+[27May2025 02:05:00.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <THEDIOS13> ZzZzZ
+[27May2025 02:08:12.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Chompy]
+[27May2025 02:08:22.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Cobweb Entanglement]
+[27May2025 02:11:21.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=1, z=998} BlockPos{x=63, y=0, z=999}
+[27May2025 02:11:30.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=1, z=998} BlockPos{x=60, y=0, z=1002}

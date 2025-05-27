@@ -14522,3 +14522,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_ingot'
 [27May2025 01:58:45.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27May2025 02:03:45.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27May2025 02:03:45.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 02:05:00.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <THEDIOS13> ZzZzZ
+[27May2025 02:08:12.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Chompy]
+[27May2025 02:08:22.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Cobweb Entanglement]
+[27May2025 02:08:45.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 02:08:45.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 02:11:21.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=1, z=998} BlockPos{x=63, y=0, z=999}
+[27May2025 02:11:30.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=1, z=998} BlockPos{x=60, y=0, z=1002}
+[27May2025 02:13:45.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 02:13:45.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -5156,6 +5156,30 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-05-27 01:53:23 +0000"
@@ -5174,6 +5198,30 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-27 01:52:19 +0000"
@@ -5183,6 +5231,12 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-05-27 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-05-27 02:08:12 +0000"
     },
     "done": true
   },
@@ -5198,9 +5252,33 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-05-27 02:09:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-05-27 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
     },
     "done": true
   },
@@ -5228,6 +5306,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-05-27 01:58:50 +0000"
@@ -5243,6 +5327,18 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-05-27 01:40:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
     },
     "done": true
   },
@@ -5264,6 +5360,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-05-27 02:09:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-05-27 01:58:50 +0000"
@@ -5276,9 +5378,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-05-27 02:09:21 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-27 02:08:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-27 02:11:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-27 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
     },
     "done": true
   },
@@ -5291,6 +5423,36 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-05-27 01:47:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-27 02:08:22 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-05-27 02:09:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
     },
     "done": true
   },
