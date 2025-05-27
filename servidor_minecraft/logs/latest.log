@@ -15,3 +15,51 @@
 [27May2025 00:43:46.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 left the game
 [27May2025 00:43:46.906] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client THEDIOS13
 [27May2025 00:43:46.989] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27May2025 01:10:36.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THEDIOS13[/127.39.67.169:38677] logged in with entity id 27827 at (64.30000001192093, 128.0, 1141.4049286677298)
+[27May2025 01:10:36.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 joined the game
+[27May2025 01:10:36.311] [Server thread/INFO] [Jade/]: Syncing config to THEDIOS13 (f31706f0-2254-3868-a64f-4c0143803166)
+[27May2025 01:10:45.049] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of THEDIOS13 (18)
+[27May2025 01:10:45.050] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to THEDIOS13
+[27May2025 01:10:47.616] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chup23[/127.116.131.206:33551] logged in with entity id 28212 at (723.5, 109.0, 76.5)
+[27May2025 01:10:47.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 joined the game
+[27May2025 01:10:47.644] [Server thread/INFO] [Jade/]: Syncing config to chup23 (fe553ec5-7f17-3f26-b383-18df65d8c40a)
+[27May2025 01:10:51.416] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of chup23 (18)
+[27May2025 01:10:51.416] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to chup23
+[27May2025 01:11:51.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> zzzzz
+[27May2025 01:11:55.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> zzzzzzzzzzzzzzzzzzzzz
+[27May2025 01:11:57.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> zzzzzzzzzzzz
+[27May2025 01:11:58.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> z
+[27May2025 01:11:58.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> z
+[27May2025 01:11:59.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> z
+[27May2025 01:11:59.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> z
+[27May2025 01:11:59.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> z
+[27May2025 01:12:00.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> z
+[27May2025 01:12:00.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> z
+[27May2025 01:12:03.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> z
+[27May2025 01:13:46.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <THEDIOS13> [x:63, y:127, z:1143, dim:minecraft:overworld]
+[27May2025 01:16:21.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27May2025 01:16:21.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luna<--[HERE]
+[27May2025 01:21:09.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Penteconter]
+[27May2025 01:22:29.375] [Server thread/WARN] [tombstone/]: The death event of the player chup23 was canceled by another mod
+[27May2025 01:22:29.376] [Server thread/INFO] [tombstone/]: The player chup23 has successfully been saved
+[27May2025 01:22:54.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has reached the goal [Strong or Careful]
+[27May2025 01:22:54.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 drowned
+[27May2025 01:22:54.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Your First Grave]
+[27May2025 01:23:14.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has reached the goal [Here They Come]
+[27May2025 01:26:29.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Good Demoman]
+[27May2025 01:27:08.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THEDIOS13 lost connection: Timed out
+[27May2025 01:27:08.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 left the game
+[27May2025 01:27:08.057] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client THEDIOS13
+[27May2025 01:27:51.167] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THEDIOS13[/127.39.67.169:33933] logged in with entity id 37329 at (125.17426494441003, 64.0, 494.37733433809154)
+[27May2025 01:27:51.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 joined the game
+[27May2025 01:27:51.208] [Server thread/INFO] [Jade/]: Syncing config to THEDIOS13 (f31706f0-2254-3868-a64f-4c0143803166)
+[27May2025 01:27:54.463] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of THEDIOS13 (18)
+[27May2025 01:27:54.463] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to THEDIOS13
+[27May2025 01:31:40.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has reached the goal [Fighting Nightmares]
+[27May2025 01:37:51.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Ambush]
+[27May2025 01:39:05.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has reached the goal [Fortuitous Militia]
+[27May2025 01:40:44.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Enchanter]
+[27May2025 01:47:14.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has completed the challenge [Centennial]
+[27May2025 01:47:26.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has reached the goal [Fortuitous Militia]
+[27May2025 01:49:04.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has completed the challenge [Centennial]
+[27May2025 01:53:23.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Voluntary Exile]
