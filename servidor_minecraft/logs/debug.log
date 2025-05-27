@@ -13508,3 +13508,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_ingot'
 [27May2025 03:38:47.445] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with THEDIOS13
 [27May2025 03:38:47.446] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with THEDIOS13
 [27May2025 03:38:47.446] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to THEDIOS13
+[27May2025 03:40:10.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 03:40:10.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 03:45:10.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 03:45:10.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
