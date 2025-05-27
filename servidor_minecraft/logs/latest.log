@@ -72,3 +72,14 @@
 [27May2025 02:23:41.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THEDIOS13 lost connection: Timed out
 [27May2025 02:23:41.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 left the game
 [27May2025 02:23:41.902] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client THEDIOS13
+[27May2025 02:25:51.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THEDIOS13[/127.39.67.169:36093] logged in with entity id 54344 at (64.3158812124149, -16.9375, 1139.2935600251285)
+[27May2025 02:25:51.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 joined the game
+[27May2025 02:25:51.311] [Server thread/INFO] [Jade/]: Syncing config to THEDIOS13 (f31706f0-2254-3868-a64f-4c0143803166)
+[27May2025 02:25:52.806] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of THEDIOS13 (18)
+[27May2025 02:25:52.806] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to THEDIOS13
+[27May2025 02:28:32.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Local Brewery]
+[27May2025 02:34:20.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=-51, z=1133} BlockPos{x=61, y=-53, z=1132}
+[27May2025 02:36:07.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Chest Slayer]
+[27May2025 02:36:07.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Amateur Archaeologist]
+[27May2025 02:43:02.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Who is Cutting Onions?]
+[27May2025 02:43:11.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Who is Cutting Onions?]

@@ -1349,6 +1349,7 @@
       "minecraft:skeleton": "2025-05-26 03:49:42 +0000",
       "minecraft:vindicator": "2025-05-27 01:40:31 +0000",
       "minecraft:spider": "2025-05-26 03:04:19 +0000",
+      "minecraft:creeper": "2025-05-27 02:38:46 +0000",
       "minecraft:wither_skeleton": "2025-05-26 03:33:19 +0000",
       "minecraft:husk": "2025-05-26 04:39:47 +0000",
       "minecraft:cave_spider": "2025-05-26 03:42:24 +0000",
@@ -3416,6 +3417,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_chestplate": {
+    "criteria": {
+      "has_spawner_frame": "2025-05-27 02:36:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-05-27 01:42:12 +0000"
@@ -3758,6 +3765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-27 02:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-27 02:11:22 +0000"
@@ -4046,6 +4059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-27 02:43:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-27 02:11:16 +0000"
@@ -4088,6 +4107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-05-27 02:42:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-27 02:14:08 +0000"
@@ -4115,6 +4140,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-05-27 01:49:30 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_helmet": {
+    "criteria": {
+      "has_spawner_frame": "2025-05-27 02:36:16 +0000"
     },
     "done": true
   },
@@ -4202,6 +4233,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_boots": {
+    "criteria": {
+      "has_spawner_frame": "2025-05-27 02:36:16 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/redwood_sign": {
     "criteria": {
       "has_planks": "2025-05-27 01:35:10 +0000"
@@ -4253,6 +4290,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-05-27 01:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-27 02:43:02 +0000"
     },
     "done": true
   },
@@ -4604,6 +4647,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/soul_silk": {
+    "criteria": {
+      "has_soul_cloth": "2025-05-27 02:37:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-27 02:10:52 +0000"
@@ -4832,6 +4881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-27 02:43:01 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/building_blocks/scarlet_bricks": {
     "criteria": {
       "has_item": "2025-05-27 02:14:36 +0000"
@@ -4847,6 +4902,12 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-27 02:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-27 02:43:02 +0000"
     },
     "done": true
   },
@@ -4994,6 +5055,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_leggings": {
+    "criteria": {
+      "has_spawner_frame": "2025-05-27 02:36:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-27 01:14:45 +0000"
@@ -5021,6 +5088,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-27 02:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-27 02:43:01 +0000"
     },
     "done": true
   },
@@ -5093,6 +5166,12 @@
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-27 01:33:25 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_blade": {
+    "criteria": {
+      "has_spawner_frame": "2025-05-27 02:36:16 +0000"
     },
     "done": true
   },

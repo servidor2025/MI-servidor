@@ -5156,78 +5156,191 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "tombstone:adventure/fortuitous_militia": {
     "criteria": {
-      "log_spam_fixer": "2025-05-27 02:22:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-05-27 02:23:15 +0000",
-      "log_spam_fixer": "2025-05-27 02:22:46 +0000"
+      "coded_trigger": "2025-05-27 01:39:05 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "log_spam_fixer": "2025-05-27 02:22:46 +0000"
+      "enchanted_item": "2025-05-27 01:40:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-05-27 01:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-27 01:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-27 01:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-27 01:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-27 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-27 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-05-27 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-05-27 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-05-27 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-27 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-05-27 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-05-27 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-27 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-27 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-27 01:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-27 01:58:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-05-27 01:58:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-05-27 01:58:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-27 01:58:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-27 01:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-27 01:58:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-05-27 02:08:12 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-27 02:08:22 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "betterdungeons:spider_dungeon": {
     "criteria": {
-      "log_spam_fixer": "2025-05-27 02:22:46 +0000"
+      "in_better_spider_dungeon": "2025-05-27 02:08:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
     "criteria": {
-      "log_spam_fixer": "2025-05-27 02:22:46 +0000"
+      "has_goddess_statue": "2025-05-27 02:09:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
     "criteria": {
-      "log_spam_fixer": "2025-05-27 02:22:46 +0000"
+      "has_goddess_statue": "2025-05-27 02:09:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
     "criteria": {
-      "log_spam_fixer": "2025-05-27 02:22:46 +0000"
+      "has_goddess_statue": "2025-05-27 02:09:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
     "criteria": {
-      "log_spam_fixer": "2025-05-27 02:22:46 +0000"
+      "has_goddess_statue": "2025-05-27 02:09:21 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-27 02:22:46 +0000"
+      "has_pointed_dripstone": "2025-05-27 02:11:04 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-27 02:22:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-27 02:22:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-27 02:22:46 +0000"
-    },
-    "done": false
+    "done": true
   },
   "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
@@ -5241,12 +5354,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "target": "2025-05-27 02:23:16 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
@@ -5256,24 +5363,6 @@
   "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-05-27 01:53:23 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-05-27 01:39:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-27 01:52:19 +0000"
     },
     "done": true
   },
@@ -5301,51 +5390,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-27 01:52:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2025-05-27 01:52:19 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-05-27 02:08:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2025-05-27 01:52:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-05-27 01:50:53 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/goddess_statue": {
-    "criteria": {
-      "has_goddess_statue": "2025-05-27 02:09:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2025-05-27 01:52:19 +0000"
     },
     "done": true
   },
@@ -5361,57 +5408,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/jungle_window": {
-    "criteria": {
-      "has_ingredient": "2025-05-27 01:52:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_slab": {
-    "criteria": {
-      "has_planks": "2025-05-27 01:52:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-05-27 01:50:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-05-27 01:58:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-05-27 02:15:29 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2025-05-27 01:58:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2025-05-27 01:58:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-05-27 01:40:44 +0000"
     },
     "done": true
   },
@@ -5427,99 +5426,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-05-27 01:52:19 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/sand_paper": {
-    "criteria": {
-      "has_item": "2025-05-27 01:58:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-05-27 02:15:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-27 01:52:19 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
-    "criteria": {
-      "has_goddess_statue": "2025-05-27 02:09:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
-    "criteria": {
-      "has_item": "2025-05-27 01:58:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-05-27 01:50:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
     },
     "done": true
   },
-  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
-    "criteria": {
-      "has_goddess_statue": "2025-05-27 02:09:21 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-05-27 02:08:22 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-05-27 02:11:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-05-27 01:52:19 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-05-27 01:58:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2025-05-27 02:15:29 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-05-27 01:47:14 +0000"
     },
     "done": true
   },
@@ -5535,21 +5450,57 @@
     },
     "done": true
   },
-  "betterdungeons:spider_dungeon": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-05-27 02:08:22 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
-    "criteria": {
-      "has_goddess_statue": "2025-05-27 02:09:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-27 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-05-27 02:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-27 02:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-05-27 02:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-27 02:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-27 02:43:11 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-27 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-27 02:43:11 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-27 02:36:07 +0000"
     },
     "done": true
   },
