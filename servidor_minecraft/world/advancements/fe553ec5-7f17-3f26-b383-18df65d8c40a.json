@@ -582,6 +582,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-05-28 01:26:52 +0000",
       "minecraft:windswept_hills": "2025-05-26 03:20:32 +0000",
       "minecraft:beach": "2025-05-26 02:59:04 +0000",
       "minecraft:sparse_jungle": "2025-05-27 01:19:35 +0000",
@@ -975,8 +976,11 @@
     "criteria": {
       "biomeswevegone:redwood_thicket": "2025-05-27 01:34:57 +0000",
       "biomeswevegone:crag_gardens": "2025-05-26 03:14:01 +0000",
+      "biomeswevegone:mojave_desert": "2025-05-28 01:23:33 +0000",
+      "biomeswevegone:rugged_badlands": "2025-05-28 01:40:19 +0000",
       "biomeswevegone:temperate_grove": "2025-05-26 03:21:08 +0000",
       "biomeswevegone:forgotten_forest": "2025-05-26 03:18:10 +0000",
+      "biomeswevegone:firecracker_chaparral": "2025-05-28 01:23:29 +0000",
       "biomeswevegone:ironwood_gour": "2025-05-26 04:25:02 +0000",
       "biomeswevegone:amaranth_grassland": "2025-05-26 04:24:54 +0000",
       "biomeswevegone:prairie": "2025-05-26 02:59:18 +0000",
@@ -1351,6 +1355,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-27 01:37:51 +0000",
       "minecraft:skeleton": "2025-05-26 03:49:42 +0000",
+      "minecraft:hoglin": "2025-05-28 01:27:29 +0000",
       "minecraft:vindicator": "2025-05-27 01:40:31 +0000",
       "minecraft:spider": "2025-05-26 03:04:19 +0000",
       "minecraft:creeper": "2025-05-27 02:38:46 +0000",
@@ -5240,6 +5245,36 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/skull_of_chaos": {
+    "criteria": {
+      "has_spawner_blade": "2025-05-27 03:07:08 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/life_stealer": {
+    "criteria": {
+      "has_spawner_blade": "2025-05-27 03:07:08 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_sword": {
+    "criteria": {
+      "has_spawner_blade": "2025-05-27 03:07:08 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-05-27 03:08:36 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-05-27 03:08:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-27 03:12:00 +0000"
@@ -5249,24 +5284,6 @@
   "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-27 03:12:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-05-27 03:26:03 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/misc/skull_of_chaos": {
-    "criteria": {
-      "has_spawner_blade": "2025-05-27 03:07:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-05-27 03:54:38 +0000"
     },
     "done": true
   },
@@ -5300,27 +5317,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-05-27 03:17:59 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
-    "criteria": {
-      "has_chaotic_hexahedron": "2025-05-27 03:08:36 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-27 03:12:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-05-27 03:33:51 +0000"
     },
     "done": true
   },
@@ -5333,18 +5332,6 @@
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-27 03:12:00 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/combat/life_stealer": {
-    "criteria": {
-      "has_spawner_blade": "2025-05-27 03:07:08 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
-    "criteria": {
-      "obtain_chaotic_hexahedron": "2025-05-27 03:08:36 +0000"
     },
     "done": true
   },
@@ -5363,12 +5350,6 @@
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-27 03:12:00 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2025-05-27 04:09:00 +0000"
     },
     "done": true
   },
@@ -5402,15 +5383,153 @@
     },
     "done": true
   },
-  "dungeonnowloading:recipes/combat/spawner_sword": {
-    "criteria": {
-      "has_spawner_blade": "2025-05-27 03:07:08 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-27 03:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-27 03:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-27 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-27 03:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-27 03:54:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-05-27 04:09:00 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-05-27 19:00:04 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-05-27 19:00:04 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-05-28 01:17:29 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-28 01:18:32 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-28 01:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-05-28 01:23:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-05-28 01:24:07 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-05-28 01:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-28 01:24:38 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull": {
+    "criteria": {
+      "has_item": "2025-05-28 01:24:38 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-05-28 01:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-28 01:24:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2025-05-28 01:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-28 01:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-28 01:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-05-28 01:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-05-28 01:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-05-28 01:38:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-28 01:40:20 +0000"
     },
     "done": true
   },
