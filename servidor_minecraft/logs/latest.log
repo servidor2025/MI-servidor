@@ -1302,3 +1302,14 @@ java.net.UnknownHostException: 127.0.0.1:25565: invalid IPv6 address literal
 [28May2025 03:07:21.911] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of chup23 (18)
 [28May2025 03:07:21.915] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to chup23
 [28May2025 03:07:21.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3217ms or 64 ticks behind
+[28May2025 03:14:25.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THEDIOS13[/127.39.67.169:42811] logged in with entity id 1732 at (166.7221542531759, 72.0, 2545.699999988079)
+[28May2025 03:14:25.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 joined the game
+[28May2025 03:14:25.429] [Server thread/INFO] [Jade/]: Syncing config to THEDIOS13 (f31706f0-2254-3868-a64f-4c0143803166)
+[28May2025 03:14:28.093] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of THEDIOS13 (18)
+[28May2025 03:14:28.096] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to THEDIOS13
+[28May2025 03:14:28.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2696ms or 53 ticks behind
+[28May2025 03:15:01.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <THEDIOS13> zzzz
+[28May2025 03:15:02.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <THEDIOS13> zzz
+[28May2025 03:15:20.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <THEDIOS13> chupe
+[28May2025 03:15:25.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> dime
+[28May2025 03:16:02.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Eye of The Storm]
