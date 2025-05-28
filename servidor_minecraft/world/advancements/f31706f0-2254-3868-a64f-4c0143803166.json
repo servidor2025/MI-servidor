@@ -1625,7 +1625,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-05-26 03:00:53 +0000",
-      "opened_chest": "2025-05-26 03:13:15 +0000"
+      "opened_chest": "2025-05-26 03:13:15 +0000",
+      "opened_cart": "2025-05-28 03:41:31 +0000"
     },
     "done": false
   },
@@ -5877,6 +5878,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-05-28 03:41:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-28 03:32:04 +0000"
@@ -6123,6 +6130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-28 03:46:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_red_sandstone": "2025-05-28 03:38:03 +0000"
@@ -6174,6 +6187,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-05-28 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2025-05-28 03:48:12 +0000"
     },
     "done": true
   },

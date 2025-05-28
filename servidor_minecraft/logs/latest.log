@@ -1317,3 +1317,7 @@ java.net.UnknownHostException: 127.0.0.1:25565: invalid IPv6 address literal
 [28May2025 03:40:55.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [No Step on Snake]
 [28May2025 03:41:31.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Tunnel Treasures]
 [28May2025 03:41:37.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Tunnel Treasures]
+[28May2025 03:48:11.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [What Happens in Las Vegas...]
+[28May2025 03:48:12.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [What Happens in Las Vegas...]
+[28May2025 03:48:37.378] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=1047, y=83, z=1924} as the loot table 'dungeons_arise:chests/desert_city_medium' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[28May2025 03:53:08.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> zzz

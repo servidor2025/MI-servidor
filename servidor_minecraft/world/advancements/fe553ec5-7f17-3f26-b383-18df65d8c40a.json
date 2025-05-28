@@ -1019,7 +1019,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-05-26 03:01:11 +0000",
-      "opened_chest": "2025-05-26 03:12:47 +0000"
+      "opened_chest": "2025-05-26 03:12:47 +0000",
+      "opened_cart": "2025-05-28 03:41:37 +0000"
     },
     "done": false
   },
@@ -5542,9 +5543,21 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-05-28 03:41:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-28 03:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-28 03:52:36 +0000"
     },
     "done": true
   },
@@ -5563,6 +5576,12 @@
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-28 03:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-05-28 03:48:53 +0000"
     },
     "done": true
   },
@@ -5587,6 +5606,12 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-28 03:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-05-28 03:48:53 +0000"
     },
     "done": true
   },
@@ -5632,6 +5657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-05-28 03:48:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-28 03:38:39 +0000"
@@ -5641,6 +5672,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-28 03:40:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2025-05-28 03:48:11 +0000"
     },
     "done": true
   },
