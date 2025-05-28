@@ -13273,3 +13273,11 @@ java.net.UnknownHostException: 127.0.0.1:25565: invalid IPv6 address literal
 [28May2025 03:25:57.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28May2025 03:30:57.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28May2025 03:30:57.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 03:35:57.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 03:35:57.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 03:40:04.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Rigged from the Start]
+[28May2025 03:40:55.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [No Step on Snake]
+[28May2025 03:40:57.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 03:40:57.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 03:41:31.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Tunnel Treasures]
+[28May2025 03:41:37.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Tunnel Treasures]

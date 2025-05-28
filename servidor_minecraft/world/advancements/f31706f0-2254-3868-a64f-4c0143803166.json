@@ -641,6 +641,7 @@
       "golden_apple": "2025-05-26 03:54:54 +0000",
       "suspicious_stew": "2025-05-26 23:43:41 +0000",
       "golden_carrot": "2025-05-26 04:12:30 +0000",
+      "cooked_rabbit": "2025-05-28 03:31:45 +0000",
       "enchanted_golden_apple": "2025-05-26 04:10:43 +0000",
       "cooked_salmon": "2025-05-26 03:13:06 +0000"
     },
@@ -3763,6 +3764,7 @@
       "entered_stables": "2025-05-27 18:06:44 +0000",
       "entered_hay_storage": "2025-05-27 01:32:45 +0000",
       "entered_flying_dutchman": "2025-05-27 18:30:44 +0000",
+      "entered_miners_house": "2025-05-28 03:38:03 +0000",
       "entered_druid_circle": "2025-05-27 00:00:11 +0000",
       "entered_desert_temple": "2025-05-27 18:09:54 +0000",
       "entered_ruined_building": "2025-05-27 00:05:40 +0000"
@@ -5875,6 +5877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-28 03:32:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-28 03:22:47 +0000"
@@ -5884,6 +5892,12 @@
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
       "has_brown_terracotta": "2025-05-28 03:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-05-28 03:38:03 +0000"
     },
     "done": true
   },
@@ -6019,6 +6033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-05-28 03:38:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-28 03:22:47 +0000"
@@ -6085,9 +6105,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-28 03:32:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-28 03:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-05-28 03:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2025-05-28 03:38:03 +0000"
     },
     "done": true
   },
