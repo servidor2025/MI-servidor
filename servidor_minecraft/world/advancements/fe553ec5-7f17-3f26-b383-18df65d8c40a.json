@@ -980,6 +980,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:redwood_thicket": "2025-05-27 01:34:57 +0000",
+      "biomeswevegone:windswept_desert": "2025-05-29 19:20:41 +0000",
       "biomeswevegone:crag_gardens": "2025-05-26 03:14:01 +0000",
       "biomeswevegone:mojave_desert": "2025-05-28 01:23:33 +0000",
       "biomeswevegone:rugged_badlands": "2025-05-28 01:40:19 +0000",
@@ -5467,6 +5468,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-05-28 01:24:07 +0000",
+      "entered_stables": "2025-05-29 19:21:23 +0000",
       "entered_flying_dutchman": "2025-05-29 18:32:11 +0000",
       "entered_miners_house": "2025-05-28 03:37:53 +0000",
       "entered_desert_temple": "2025-05-29 18:44:17 +0000"
@@ -5779,6 +5781,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-05-29 19:19:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-29 18:44:19 +0000"
@@ -5806,6 +5814,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-05-29 18:44:28 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:bastille": {
+    "criteria": {
+      "in_bastille": "2025-05-29 19:27:09 +0000"
     },
     "done": true
   },

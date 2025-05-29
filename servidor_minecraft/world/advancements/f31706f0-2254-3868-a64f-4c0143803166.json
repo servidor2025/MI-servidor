@@ -6305,6 +6305,12 @@
     },
     "done": true
   },
+  "takesapillage:bastille": {
+    "criteria": {
+      "in_bastille": "2025-05-29 19:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-05-29 18:46:02 +0000"

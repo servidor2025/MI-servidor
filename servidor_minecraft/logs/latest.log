@@ -1353,3 +1353,10 @@ java.net.UnknownHostException: az-presented.gl.joinmc.link: No address associate
 [29May2025 19:20:19.993] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-360, y=76, z=-87}
 [29May2025 19:20:19.993] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-353, y=77, z=-86}
 [29May2025 19:20:19.994] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=71, z=-94}
+[29May2025 19:24:44.718] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/30168, l='ServerLevel[world]', x=165.50, y=65.00, z=3892.17] died, message: 'Butcher was sniped by Archer'
+[29May2025 19:26:58.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of THEDIOS13) moved wrongly! 0.3692390178257483
+[29May2025 19:26:58.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of THEDIOS13) moved wrongly! 0.5867446636457316
+[29May2025 19:26:58.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of THEDIOS13) moved wrongly! 0.80070706820743
+[29May2025 19:27:04.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Eh-eh-oh, eh-oh]
+[29May2025 19:27:09.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Eh-eh-oh, eh-oh]
+[29May2025 19:32:05.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Versatility]
