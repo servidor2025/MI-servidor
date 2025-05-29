@@ -1367,3 +1367,8 @@ java.net.UnknownHostException: az-presented.gl.joinmc.link: No address associate
 [29May2025 19:34:18.070] [Server thread/WARN] [tombstone/]: The death event of the player THEDIOS13 was canceled by another mod
 [29May2025 19:34:18.073] [Server thread/INFO] [tombstone/]: The player THEDIOS13 has successfully been saved
 [29May2025 19:39:59.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [People Are Strange]
+[29May2025 19:45:31.723] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30419, l='ServerLevel[world]', x=103.58, y=65.00, z=3920.60] died, message: 'Unemployed was shot by Pillager'
+[29May2025 19:48:26.272] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30191, l='ServerLevel[world]', x=68.82, y=65.00, z=3920.55] died, message: 'Unemployed was shot by Pillager'
+[29May2025 19:51:57.323] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/29728, l='ServerLevel[world]', x=77.93, y=87.00, z=3823.34] died, message: 'Leatherworker was slain by Zombie'
+[29May2025 19:51:59.321] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/30415, l='ServerLevel[world]', x=75.92, y=87.00, z=3823.42] died, message: 'Fisherman was slain by Zombie'
+[29May2025 19:52:01.727] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
