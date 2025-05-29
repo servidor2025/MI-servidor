@@ -6283,9 +6283,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/food/cooked_yucca_fruit_from_camfire": {
+    "criteria": {
+      "has_yucca_fruit": "2025-05-29 18:23:41 +0000"
+    },
+    "done": true
+  },
   "paraglider:statues_bargain": {
     "criteria": {
       "bargain": "2025-05-29 18:17:49 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_yucca_fruit_from_smelting": {
+    "criteria": {
+      "has_yucca_fruit": "2025-05-29 18:23:41 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_yucca_fruit_from_smoker": {
+    "criteria": {
+      "has_yucca_fruit": "2025-05-29 18:23:41 +0000"
     },
     "done": true
   },

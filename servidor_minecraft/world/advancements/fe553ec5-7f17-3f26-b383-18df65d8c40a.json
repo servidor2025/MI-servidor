@@ -596,6 +596,7 @@
       "minecraft:windswept_forest": "2025-05-26 03:14:44 +0000",
       "minecraft:jungle": "2025-05-26 04:39:21 +0000",
       "minecraft:windswept_savanna": "2025-05-26 03:14:02 +0000",
+      "minecraft:warm_ocean": "2025-05-29 18:24:56 +0000",
       "minecraft:savanna": "2025-05-26 02:58:29 +0000",
       "minecraft:plains": "2025-05-26 02:53:11 +0000"
     },
@@ -757,6 +758,7 @@
       "cooked_mutton": "2025-05-27 04:14:07 +0000",
       "cooked_beef": "2025-05-26 02:58:01 +0000",
       "cooked_cod": "2025-05-26 03:07:14 +0000",
+      "pumpkin_pie": "2025-05-29 18:20:13 +0000",
       "bread": "2025-05-26 03:46:53 +0000",
       "golden_apple": "2025-05-27 03:08:18 +0000",
       "golden_carrot": "2025-05-26 03:54:25 +0000",
@@ -986,6 +988,7 @@
       "biomeswevegone:ironwood_gour": "2025-05-26 04:25:02 +0000",
       "biomeswevegone:amaranth_grassland": "2025-05-26 04:24:54 +0000",
       "biomeswevegone:prairie": "2025-05-26 02:59:18 +0000",
+      "biomeswevegone:dead_sea": "2025-05-29 18:24:53 +0000",
       "biomeswevegone:allium_shrubland": "2025-05-26 02:59:45 +0000",
       "biomeswevegone:baobab_savanna": "2025-05-27 02:08:44 +0000",
       "biomeswevegone:rainbow_beach": "2025-05-26 03:00:38 +0000"
@@ -5744,6 +5747,18 @@
   "tombstone:adventure/use_lightning_resistance": {
     "criteria": {
       "has_magic_scroll": "2025-05-29 18:18:02 +0000"
+    },
+    "done": true
+  },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2025-05-29 18:18:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-29 18:20:34 +0000"
     },
     "done": true
   },
