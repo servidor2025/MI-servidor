@@ -1360,3 +1360,10 @@ java.net.UnknownHostException: az-presented.gl.joinmc.link: No address associate
 [29May2025 19:27:04.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Eh-eh-oh, eh-oh]
 [29May2025 19:27:09.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Eh-eh-oh, eh-oh]
 [29May2025 19:32:05.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Versatility]
+[29May2025 19:32:43.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [On the grapevine]
+[29May2025 19:33:16.558] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/29919, l='ServerLevel[world]', x=73.42, y=65.00, z=3845.38] died, message: 'Leatherworker was struck down by Legioner'
+[29May2025 19:33:50.080] [Server thread/WARN] [tombstone/]: The death event of the player THEDIOS13 was canceled by another mod
+[29May2025 19:33:50.099] [Server thread/INFO] [tombstone/]: The player THEDIOS13 has successfully been saved
+[29May2025 19:34:18.070] [Server thread/WARN] [tombstone/]: The death event of the player THEDIOS13 was canceled by another mod
+[29May2025 19:34:18.073] [Server thread/INFO] [tombstone/]: The player THEDIOS13 has successfully been saved
+[29May2025 19:39:59.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [People Are Strange]

@@ -6305,6 +6305,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/versatility": {
+    "criteria": {
+      "coded_trigger": "2025-05-29 19:32:05 +0000"
+    },
+    "done": true
+  },
   "takesapillage:bastille": {
     "criteria": {
       "in_bastille": "2025-05-29 19:27:04 +0000"

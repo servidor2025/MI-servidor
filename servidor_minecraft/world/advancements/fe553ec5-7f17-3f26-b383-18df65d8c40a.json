@@ -1363,10 +1363,12 @@
     "criteria": {
       "minecraft:pillager": "2025-05-27 01:37:51 +0000",
       "minecraft:skeleton": "2025-05-26 03:49:42 +0000",
+      "minecraft:ravager": "2025-05-29 19:28:26 +0000",
       "minecraft:hoglin": "2025-05-28 01:27:29 +0000",
       "minecraft:vindicator": "2025-05-27 01:40:31 +0000",
       "minecraft:spider": "2025-05-26 03:04:19 +0000",
       "minecraft:creeper": "2025-05-27 02:38:46 +0000",
+      "minecraft:evoker": "2025-05-29 19:29:58 +0000",
       "minecraft:witch": "2025-05-27 03:54:51 +0000",
       "minecraft:wither_skeleton": "2025-05-26 03:33:19 +0000",
       "minecraft:husk": "2025-05-26 04:39:47 +0000",
@@ -5802,6 +5804,12 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_chiseled_red_sandstone": "2025-05-29 18:44:28 +0000"
+    },
+    "done": true
+  },
+  "create_winery:wine_advancement_1": {
+    "criteria": {
+      "wine_advancement_1_0": "2025-05-29 19:32:43 +0000"
     },
     "done": true
   },
