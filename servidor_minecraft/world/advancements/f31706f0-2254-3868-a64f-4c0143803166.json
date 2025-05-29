@@ -572,6 +572,7 @@
       "minecraft:stony_shore": "2025-05-26 04:37:50 +0000",
       "minecraft:dripstone_caves": "2025-05-27 00:15:02 +0000",
       "minecraft:forest": "2025-05-26 23:33:17 +0000",
+      "minecraft:lush_caves": "2025-05-29 19:01:08 +0000",
       "minecraft:desert": "2025-05-27 18:09:53 +0000",
       "minecraft:windswept_forest": "2025-05-26 03:14:30 +0000",
       "minecraft:jungle": "2025-05-26 04:39:14 +0000",
@@ -1451,6 +1452,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-26 03:04:12 +0000",
       "minecraft:skeleton": "2025-05-26 02:59:28 +0000",
+      "minecraft:hoglin": "2025-05-29 19:09:02 +0000",
       "minecraft:vindicator": "2025-05-27 01:38:16 +0000",
       "minecraft:spider": "2025-05-26 02:49:07 +0000",
       "minecraft:creeper": "2025-05-27 00:34:45 +0000",
@@ -1464,7 +1466,8 @@
       "minecraft:enderman": "2025-05-27 00:21:45 +0000",
       "minecraft:vex": "2025-05-27 01:42:14 +0000",
       "minecraft:zombie": "2025-05-26 03:00:42 +0000",
-      "minecraft:drowned": "2025-05-26 23:35:57 +0000"
+      "minecraft:drowned": "2025-05-26 23:35:57 +0000",
+      "minecraft:zombie_villager": "2025-05-29 18:49:28 +0000"
     },
     "done": false
   },
@@ -6284,6 +6287,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_4": "2025-05-29 18:51:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-29 19:15:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2025-05-29 18:39:03 +0000"
@@ -6314,6 +6329,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-29 19:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-29 19:15:57 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-05-29 18:51:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-05-29 19:04:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-05-29 18:47:30 +0000"
@@ -6338,6 +6377,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-29 19:15:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-05-29 18:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-29 19:15:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2025-05-29 18:46:02 +0000"
@@ -6350,9 +6407,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-29 19:15:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
       "has_item": "2025-05-29 18:38:57 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-05-29 18:49:11 +0000"
     },
     "done": true
   },
