@@ -5735,5 +5735,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-29 17:14:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
