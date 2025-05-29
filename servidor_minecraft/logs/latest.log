@@ -1317,3 +1317,18 @@ java.net.UnknownHostException: az-presented.gl.joinmc.link: No address associate
 [29May2025 18:04:31.473] [Server thread/INFO] [Jade/]: Syncing config to chup23 (fe553ec5-7f17-3f26-b383-18df65d8c40a)
 [29May2025 18:04:31.616] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of chup23 (18)
 [29May2025 18:04:31.617] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to chup23
+[29May2025 18:12:56.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THEDIOS13 was kicked for floating too long!
+[29May2025 18:12:56.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THEDIOS13 lost connection: Disconnected
+[29May2025 18:12:56.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 left the game
+[29May2025 18:12:56.429] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client THEDIOS13
+[29May2025 18:12:56.469] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29May2025 18:13:19.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THEDIOS13[/127.39.67.169:60783] logged in with entity id 6539 at (1000.3136949231022, 188.4611054369346, 1986.4388165439339)
+[29May2025 18:13:19.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 joined the game
+[29May2025 18:13:19.943] [Server thread/INFO] [Jade/]: Syncing config to THEDIOS13 (f31706f0-2254-3868-a64f-4c0143803166)
+[29May2025 18:13:21.172] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of THEDIOS13 (18)
+[29May2025 18:13:21.173] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to THEDIOS13
+[29May2025 18:17:06.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Magic Writing]
+[29May2025 18:17:49.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has reached the goal [Statue's Bargain]
+[29May2025 18:18:02.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has reached the goal [Traveling lightning rod]
+[29May2025 18:18:40.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has completed the challenge [Hero of Hyrule]
+[29May2025 18:20:34.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Mine? Mine? Mine?]

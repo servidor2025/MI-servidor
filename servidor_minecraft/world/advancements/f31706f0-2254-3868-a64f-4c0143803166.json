@@ -6283,5 +6283,11 @@
     },
     "done": true
   },
+  "paraglider:statues_bargain": {
+    "criteria": {
+      "bargain": "2025-05-29 18:17:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
