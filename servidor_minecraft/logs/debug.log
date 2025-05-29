@@ -13054,3 +13054,7 @@ java.net.UnknownHostException: 127.0.0.1:25565: invalid IPv6 address literal
 [29May2025 16:35:52.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made chupe23 a server operator
 [29May2025 16:35:54.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29May2025 16:35:54.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 16:40:54.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 16:40:54.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 16:45:54.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 16:45:54.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
