@@ -643,6 +643,7 @@
       "suspicious_stew": "2025-05-26 23:43:41 +0000",
       "golden_carrot": "2025-05-26 04:12:30 +0000",
       "cooked_rabbit": "2025-05-28 03:31:45 +0000",
+      "cooked_chicken": "2025-05-29 18:45:27 +0000",
       "enchanted_golden_apple": "2025-05-26 04:10:43 +0000",
       "cooked_salmon": "2025-05-26 03:13:06 +0000"
     },
@@ -6283,9 +6284,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-29 18:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-29 18:46:02 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/food/cooked_yucca_fruit_from_camfire": {
     "criteria": {
       "has_yucca_fruit": "2025-05-29 18:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-05-29 18:40:23 +0000"
     },
     "done": true
   },
@@ -6295,9 +6314,45 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-29 18:47:30 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/food/cooked_yucca_fruit_from_smelting": {
     "criteria": {
       "has_yucca_fruit": "2025-05-29 18:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-29 18:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-29 18:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-29 18:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-05-29 18:46:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-29 18:38:57 +0000"
     },
     "done": true
   },
