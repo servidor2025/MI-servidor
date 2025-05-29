@@ -1309,3 +1309,11 @@ java.net.UnknownHostException: az-presented.gl.joinmc.link: No address associate
 [29May2025 17:45:57.688] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to THEDIOS13
 [29May2025 17:45:57.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
 [29May2025 17:49:56.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Funeral Theft]
+[29May2025 17:59:49.574] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1289, y=-51, z=1761}
+[29May2025 17:59:49.574] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1289, y=-51, z=1760}
+[29May2025 18:00:39.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8490ms or 169 ticks behind
+[29May2025 18:04:31.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chup23[/127.116.131.206:36787] logged in with entity id 5176 at (1054.4553593942142, 180.0, 1970.300000011921)
+[29May2025 18:04:31.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 joined the game
+[29May2025 18:04:31.473] [Server thread/INFO] [Jade/]: Syncing config to chup23 (fe553ec5-7f17-3f26-b383-18df65d8c40a)
+[29May2025 18:04:31.616] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of chup23 (18)
+[29May2025 18:04:31.617] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to chup23

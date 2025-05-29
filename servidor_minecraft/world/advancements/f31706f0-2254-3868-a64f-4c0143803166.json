@@ -1455,6 +1455,7 @@
       "minecraft:creeper": "2025-05-27 00:34:45 +0000",
       "minecraft:evoker": "2025-05-27 01:42:05 +0000",
       "minecraft:phantom": "2025-05-26 23:35:49 +0000",
+      "minecraft:witch": "2025-05-29 17:49:50 +0000",
       "minecraft:wither_skeleton": "2025-05-26 03:32:48 +0000",
       "minecraft:husk": "2025-05-26 04:39:20 +0000",
       "minecraft:cave_spider": "2025-05-26 03:43:39 +0000",
@@ -6267,6 +6268,18 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-28 04:28:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-29 17:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-05-29 17:50:32 +0000"
     },
     "done": true
   },
