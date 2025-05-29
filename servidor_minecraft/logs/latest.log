@@ -1305,3 +1305,5 @@ java.net.UnknownHostException: 127.0.0.1:25565: invalid IPv6 address literal
 [29May2025 16:32:02.196] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to chup23
 [29May2025 16:32:02.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3395ms or 67 ticks behind
 [29May2025 16:35:52.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made chupe23 a server operator
+[29May2025 16:52:30.026] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1289, y=-51, z=1760}
+[29May2025 16:52:30.026] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1289, y=-51, z=1762}
