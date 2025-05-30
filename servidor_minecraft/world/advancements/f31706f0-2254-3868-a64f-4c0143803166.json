@@ -6461,6 +6461,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-05-30 00:28:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_windswept_sandstone_from_windswept_sandstone_stonecutting": {
     "criteria": {
       "has_windswept_sandstone": "2025-05-30 00:30:36 +0000"
@@ -6512,12 +6518,6 @@
   "biomeswevegone:recipes/building_blocks/windswept_sandstone_slab": {
     "criteria": {
       "has_windswept_sandstone": "2025-05-30 00:30:36 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_cupidity": {
-    "criteria": {
-      "coded_trigger": "2025-05-30 00:28:15 +0000"
     },
     "done": true
   },

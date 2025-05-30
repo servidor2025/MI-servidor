@@ -1307,3 +1307,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_ingot'
 [30May2025 00:29:30.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> z
 [30May2025 00:29:31.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> z
 [30May2025 00:31:48.257] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=398, y=1, z=3563}
+[30May2025 00:36:24.561] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THEDIOS13 lost connection: Disconnected
+[30May2025 00:36:24.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 left the game
+[30May2025 00:36:24.567] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client THEDIOS13
+[30May2025 00:36:24.614] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30May2025 00:36:48.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THEDIOS13[/127.39.67.169:39473] logged in with entity id 3712 at (80.10357794898745, 75.0, 3911.6593144679346)
+[30May2025 00:36:48.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 joined the game
+[30May2025 00:36:48.460] [Server thread/INFO] [Jade/]: Syncing config to THEDIOS13 (f31706f0-2254-3868-a64f-4c0143803166)
+[30May2025 00:36:49.947] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of THEDIOS13 (18)
+[30May2025 00:36:49.947] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to THEDIOS13
+[30May2025 00:40:07.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Where Is The Stone Pen?]
+[30May2025 00:43:12.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Call For Adventure]
+[30May2025 00:45:00.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [We do a little trolling...]
