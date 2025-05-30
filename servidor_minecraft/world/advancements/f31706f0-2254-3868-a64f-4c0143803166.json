@@ -6287,117 +6287,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "paraglider:statues_bargain": {
     "criteria": {
-      "log_spam_fixer": "2025-05-29 19:55:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 19:55:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 19:55:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 19:55:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 19:55:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 19:55:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 19:55:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 19:55:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 19:55:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 19:55:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 19:55:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-29 19:55:26 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:charm_collector": {
-    "criteria": {
-      "charm_collector_4": "2025-05-29 18:51:20 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-05-29 19:15:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
-    "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-05-29 19:42:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_boots": "2025-05-29 18:39:03 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/versatility": {
-    "criteria": {
-      "coded_trigger": "2025-05-29 19:32:05 +0000"
-    },
-    "done": true
-  },
-  "takesapillage:bastille": {
-    "criteria": {
-      "in_bastille": "2025-05-29 19:27:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-05-29 18:46:02 +0000"
+      "bargain": "2025-05-29 18:17:49 +0000"
     },
     "done": true
   },
@@ -6407,15 +6299,105 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/food/cooked_yucca_fruit_from_smelting": {
+    "criteria": {
+      "has_yucca_fruit": "2025-05-29 18:23:41 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_yucca_fruit_from_smoker": {
+    "criteria": {
+      "has_yucca_fruit": "2025-05-29 18:23:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-29 18:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-29 18:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-29 18:39:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-05-29 18:40:23 +0000"
     },
     "done": true
   },
-  "paraglider:statues_bargain": {
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
-      "bargain": "2025-05-29 18:17:49 +0000"
+      "has_cut_sandstone": "2025-05-29 18:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-29 18:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-29 18:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-05-29 18:46:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-29 18:47:30 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-05-29 18:49:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-05-29 18:51:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_4": "2025-05-29 18:51:20 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-05-29 18:59:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-05-29 19:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-29 19:15:57 +0000"
     },
     "done": true
   },
@@ -6431,51 +6413,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:dark_creator": {
-    "criteria": {
-      "dark_creator_0": "2025-05-29 18:51:00 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/kangaroo": {
-    "criteria": {
-      "killed_by": "2025-05-29 19:04:24 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-05-29 18:47:30 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/food/cooked_yucca_fruit_from_smelting": {
-    "criteria": {
-      "has_yucca_fruit": "2025-05-29 18:23:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-29 18:46:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_boots": "2025-05-29 18:39:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mud_brick_wall": {
     "criteria": {
       "has_mud_bricks": "2025-05-29 19:15:57 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/maraca": {
-    "criteria": {
-      "maraca": "2025-05-29 18:59:51 +0000"
     },
     "done": true
   },
@@ -6485,27 +6425,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-05-29 18:46:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
-    "criteria": {
-      "has_dune_armor_trim_smithing_template": "2025-05-29 18:46:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
       "has_mud_bricks": "2025-05-29 19:15:57 +0000"
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+  "takesapillage:bastille": {
     "criteria": {
-      "has_item": "2025-05-29 18:38:57 +0000"
+      "in_bastille": "2025-05-29 19:27:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/versatility": {
+    "criteria": {
+      "coded_trigger": "2025-05-29 19:32:05 +0000"
     },
     "done": true
   },
@@ -6515,21 +6449,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-05-29 19:42:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-29 19:42:14 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:exorcism": {
+  "minecraft:recipes/building_blocks/chiseled_windswept_sandstone_from_windswept_sandstone_stonecutting": {
     "criteria": {
-      "exorcism_0": "2025-05-29 18:49:11 +0000"
+      "has_windswept_sandstone": "2025-05-30 00:30:36 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/food/cooked_yucca_fruit_from_smoker": {
+  "biomeswevegone:recipes/building_blocks/windswept_sandstone_pillar": {
     "criteria": {
-      "has_yucca_fruit": "2025-05-29 18:23:41 +0000"
+      "has_windswept_sandstone": "2025-05-30 00:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/windswept_sandstone_slab_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-05-30 00:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/windswept_sandstone_stairs_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-05-30 00:30:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/smooth_windswept_sandstone": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-05-30 00:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_windswept_sandstone_stairs_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-05-30 00:30:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/cut_windswept_sandstone": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-05-30 00:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/windswept_sandstone_wall_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-05-30 00:30:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/windswept_sandstone_slab": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-05-30 00:30:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-05-30 00:28:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/windswept_sandstone_stairs": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-05-30 00:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_windswept_sandstone_slab_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-05-30 00:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_windswept_sandstone_slab_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-05-30 00:30:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/windswept_sandstone_wall": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-05-30 00:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_windswept_sandstone_from_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_windswept_sandstone": "2025-05-30 00:30:36 +0000"
     },
     "done": true
   },

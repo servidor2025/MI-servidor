@@ -1,21 +1,21 @@
-[29May2025 17:42:06.891] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[29May2025 17:42:06.895] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[29May2025 17:42:07.977] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[29May2025 17:42:08.021] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MI-servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[29May2025 17:42:08.532] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MI-servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
-[29May2025 17:42:08.533] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MI-servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[29May2025 17:42:08.534] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MI-servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[29May2025 17:42:08.535] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MI-servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[29May2025 17:42:08.843] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[29May2025 17:42:08.845] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 16 dependencies adding them to mods collection
-[29May2025 17:42:12.216] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[29May2025 17:42:12.514] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[29May2025 17:42:12.904] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
-[29May2025 17:42:12.906] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
-[29May2025 17:42:12.940] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 154 options available, 0 override(s) found
-[29May2025 17:42:13.013] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[29May2025 17:42:13.034] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[29May2025 17:42:13.093] [main/INFO] [Puzzles Lib/]: Loading 109 mods:
+[30May2025 00:25:30.452] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[30May2025 00:25:30.459] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[30May2025 00:25:35.106] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[30May2025 00:25:35.296] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MI-servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[30May2025 00:25:35.881] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MI-servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[30May2025 00:25:35.883] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MI-servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[30May2025 00:25:35.884] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MI-servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[30May2025 00:25:35.885] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MI-servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[30May2025 00:25:36.299] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[30May2025 00:25:36.300] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 16 dependencies adding them to mods collection
+[30May2025 00:25:40.351] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30May2025 00:25:40.631] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[30May2025 00:25:41.023] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[30May2025 00:25:41.028] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[30May2025 00:25:41.054] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 154 options available, 0 override(s) found
+[30May2025 00:25:41.122] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[30May2025 00:25:41.166] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[30May2025 00:25:41.253] [main/INFO] [Puzzles Lib/]: Loading 109 mods:
 	- alexsmobs 1.22.9
 	- appleskin 2.5.1+mc1.20.1
 	- aquaculture 2.5.5
@@ -126,176 +126,176 @@
 	- voicechat 1.20.1-2.5.26
 	- waystones 14.1.11
 	- yungsapi 1.20-Forge-4.0.6
-[29May2025 17:42:13.668] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
-[29May2025 17:42:14.951] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[29May2025 17:42:19.481] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[29May2025 17:42:19.481] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[29May2025 17:42:20.397] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping dungeonnowloading.forge.mixins.json:forge.structures.StructurePoolMixin->@ModifyConstant::dungeonnowloading_increaseWeightLimit(I)I with priority 1000, already redirected by yungsapi_forge.mixins.json:IncreaseStructureWeightLimitMixinForge->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000
-[29May2025 17:42:21.352] [modloading-worker-0/INFO] [create_new_age/]: Hello 1.20.1 Create!
-[29May2025 17:42:21.560] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[29May2025 17:42:21.560] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[29May2025 17:42:22.139] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
-[29May2025 17:42:22.141] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
-[29May2025 17:42:22.249] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.1.
-[29May2025 17:42:22.576] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[29May2025 17:42:22.587] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[29May2025 17:42:22.735] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
-[29May2025 17:42:22.793] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[29May2025 17:42:22.822] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[29May2025 17:42:22.843] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[29May2025 17:42:22.912] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
-[29May2025 17:42:22.914] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
-[29May2025 17:42:22.955] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[29May2025 17:42:22.956] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[29May2025 17:42:22.958] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[29May2025 17:42:22.960] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[29May2025 17:42:22.965] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[29May2025 17:42:22.966] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[29May2025 17:42:22.969] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[29May2025 17:42:22.974] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
-[29May2025 17:42:22.974] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
-[29May2025 17:42:23.010] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
-[29May2025 17:42:23.231] [modloading-worker-0/INFO] [JamLib/]: Initializing JamLib on Forge
-[29May2025 17:42:23.337] [modloading-worker-0/INFO] [JamLib/]: Updated config file at /workspaces/MI-servidor/servidor_minecraft/config/rightclickharvest.json5
-[29May2025 17:42:23.338] [modloading-worker-0/INFO] [Right Click Harvest/]: Initializing Right Click Harvest on FORGE
-[29May2025 17:42:23.655] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
-[29May2025 17:42:23.802] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
-[29May2025 17:42:23.883] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
-[29May2025 17:42:23.888] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
-[29May2025 17:42:23.888] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
-[29May2025 17:42:23.889] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
-[29May2025 17:42:23.890] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
-[29May2025 17:42:23.891] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
-[29May2025 17:42:23.894] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
-[29May2025 17:42:23.902] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
-[29May2025 17:42:23.915] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
-[29May2025 17:42:23.916] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
-[29May2025 17:42:23.917] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
-[29May2025 17:42:23.925] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
-[29May2025 17:42:23.940] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
-[29May2025 17:42:24.064] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
-[29May2025 17:42:24.068] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
-[29May2025 17:42:24.078] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
-[29May2025 17:42:24.085] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
-[29May2025 17:42:24.102] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
-[29May2025 17:42:24.117] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
-[29May2025 17:42:24.121] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
-[29May2025 17:42:24.122] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
-[29May2025 17:42:24.140] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
-[29May2025 17:42:24.175] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
-[29May2025 17:42:24.177] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
-[29May2025 17:42:24.189] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
-[29May2025 17:42:24.189] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
-[29May2025 17:42:24.233] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[29May2025 17:42:24.252] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
-[29May2025 17:42:24.285] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
-[29May2025 17:42:24.377] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
-[29May2025 17:42:25.162] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[29May2025 17:42:25.174] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[29May2025 17:42:25.215] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[29May2025 17:42:31.695] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[29May2025 17:42:31.708] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[29May2025 17:42:31.709] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[29May2025 17:42:31.711] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[29May2025 17:42:31.851] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[29May2025 17:42:32.113] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
-[29May2025 17:42:32.133] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
-[29May2025 17:42:32.236] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
-[29May2025 17:42:32.243] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
-[29May2025 17:42:32.286] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[29May2025 17:42:32.312] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[29May2025 17:42:32.360] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[29May2025 17:42:32.374] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[29May2025 17:42:32.377] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Starting version check at https://api.modrinth.com/updates/create-jetpack/forge_updates.json
-[29May2025 17:42:32.410] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[29May2025 17:42:32.410] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
-[29May2025 17:42:32.411] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
-[29May2025 17:42:32.411] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
-[29May2025 17:42:32.411] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
-[29May2025 17:42:32.411] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
-[29May2025 17:42:32.411] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
-[29May2025 17:42:32.412] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
-[29May2025 17:42:32.412] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
-[29May2025 17:42:32.412] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
-[29May2025 17:42:32.435] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[29May2025 17:42:32.462] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[29May2025 17:42:32.463] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[29May2025 17:42:32.463] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[29May2025 17:42:32.464] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[29May2025 17:42:32.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Found status: OUTDATED Current: 4.4.0 Target: 4.4.2
-[29May2025 17:42:32.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[29May2025 17:42:33.014] [main/INFO] [journeymap/]: Initializing Packet Registries
-[29May2025 17:42:33.149] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[29May2025 17:42:33.149] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_plus] Starting version check at http://changelogs.moddinglegacy.com/dungeons-plus.json
-[29May2025 17:42:33.170] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[29May2025 17:42:33.170] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[29May2025 17:42:33.170] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
-[29May2025 17:42:33.171] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
-[29May2025 17:42:33.171] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
-[29May2025 17:42:33.233] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_plus] Found status: BETA Current: 1.5.0 Target: null
-[29May2025 17:42:33.233] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
-[29May2025 17:42:33.279] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
-[29May2025 17:42:33.279] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
-[29May2025 17:42:33.293] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: AHEAD Current: 5.4.0 Target: null
-[29May2025 17:42:33.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Starting version check at https://mc-update-check.anthonyhilyard.com/521590
-[29May2025 17:42:33.368] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[29May2025 17:42:33.377] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[29May2025 17:42:33.378] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at bl4ckscor3.mod.globalxp.compat.WailaDataProvider
-[29May2025 17:42:33.379] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[29May2025 17:42:33.380] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[29May2025 17:42:33.393] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[29May2025 17:42:33.397] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[29May2025 17:42:33.398] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
-[29May2025 17:42:33.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Found status: UP_TO_DATE Current: 1.1.9 Target: null
-[29May2025 17:42:33.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[29May2025 17:42:33.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[29May2025 17:42:33.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[29May2025 17:42:33.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.5
-[29May2025 17:42:33.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
-[29May2025 17:42:33.624] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.1 Target: 1.7.1
-[29May2025 17:42:33.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[29May2025 17:42:33.636] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: OUTDATED Current: 8.0.2 Target: 8.0.3
-[29May2025 17:42:33.637] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[29May2025 17:42:33.750] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[29May2025 17:42:33.750] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.20.1
-[29May2025 17:42:34.169] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA Current: 14.0.57 Target: 14.0.57
-[29May2025 17:42:34.169] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[29May2025 17:42:34.181] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[29May2025 17:42:34.181] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29May2025 17:42:34.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
-[29May2025 17:42:34.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[29May2025 17:42:34.928] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.26 Target: 1.20.1-2.5.30
-[29May2025 17:42:34.928] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[29May2025 17:42:34.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: OUTDATED Current: 1.1.13 Target: 1.1.25
-[29May2025 17:42:34.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createcasing] Starting version check at https://api.modrinth.com/updates/create-encased/forge_updates.json
-[29May2025 17:42:35.003] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createcasing] Found status: UP_TO_DATE Current: 1.7.1-fix2 Target: null
-[29May2025 17:42:35.004] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[29May2025 17:42:35.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[29May2025 17:42:35.037] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[29May2025 17:42:35.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.29 Target: 8.1.32
-[29May2025 17:42:43.157] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[29May2025 17:42:52.086] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MI-servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23311!/assets/.mcassetsroot' uses unexpected schema
-[29May2025 17:42:52.086] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MI-servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23311!/data/.mcassetsroot' uses unexpected schema
-[29May2025 17:42:52.385] [main/INFO] [com.simibubi.create.Create/]: Created 646 recipes which will be injected into the game
-[29May2025 17:42:52.400] [main/INFO] [com.simibubi.create.Create/]: Created 13 tags which will be injected into the game
-[29May2025 17:42:53.050] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
-[29May2025 17:42:53.057] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
-[29May2025 17:42:53.057] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
-[29May2025 17:42:53.063] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 50, separation: 25, salt: 40842806, useValueFromConfiguration: true}
-[29May2025 17:42:53.063] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
-[29May2025 17:42:53.063] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 50, separation: 25, salt: 254145856, useValueFromConfiguration: true}
-[29May2025 17:42:53.063] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 50, separation: 25, salt: 25482856, useValueFromConfiguration: true}
-[29May2025 17:42:53.064] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
-[29May2025 17:42:53.064] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 50, separation: 25, salt: 15482856, useValueFromConfiguration: true}
-[29May2025 17:42:53.064] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
-[29May2025 17:42:53.921] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[29May2025 17:42:54.109] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
-[29May2025 17:42:54.350] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:needs_tool_level_1 as it is missing following references: nordic_structures:dwarfcavernspawner_1 (from nordic_structures-1.6.9-forge-1.20.1.jar), 
+[30May2025 00:25:42.052] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
+[30May2025 00:25:43.722] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[30May2025 00:25:51.577] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[30May2025 00:25:51.577] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[30May2025 00:25:52.766] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping dungeonnowloading.forge.mixins.json:forge.structures.StructurePoolMixin->@ModifyConstant::dungeonnowloading_increaseWeightLimit(I)I with priority 1000, already redirected by yungsapi_forge.mixins.json:IncreaseStructureWeightLimitMixinForge->@ModifyConstant::yungsapi_increaseWeightLimit(I)I with priority 1000
+[30May2025 00:25:54.160] [modloading-worker-0/INFO] [create_new_age/]: Hello 1.20.1 Create!
+[30May2025 00:25:54.487] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[30May2025 00:25:54.487] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[30May2025 00:25:54.883] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[30May2025 00:25:54.892] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[30May2025 00:25:55.006] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.1.
+[30May2025 00:25:55.482] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[30May2025 00:25:55.569] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[30May2025 00:25:55.707] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[30May2025 00:25:55.764] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[30May2025 00:25:55.799] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[30May2025 00:25:55.851] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[30May2025 00:25:56.059] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
+[30May2025 00:25:56.073] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[30May2025 00:25:56.073] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[30May2025 00:25:56.082] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[30May2025 00:25:56.085] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[30May2025 00:25:56.087] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[30May2025 00:25:56.092] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[30May2025 00:25:56.093] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[30May2025 00:25:56.097] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[30May2025 00:25:56.099] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[30May2025 00:25:56.399] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[30May2025 00:25:56.399] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[30May2025 00:25:56.502] [modloading-worker-0/INFO] [JamLib/]: Initializing JamLib on Forge
+[30May2025 00:25:56.645] [modloading-worker-0/INFO] [JamLib/]: Updated config file at /workspaces/MI-servidor/servidor_minecraft/config/rightclickharvest.json5
+[30May2025 00:25:56.646] [modloading-worker-0/INFO] [Right Click Harvest/]: Initializing Right Click Harvest on FORGE
+[30May2025 00:25:57.049] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
+[30May2025 00:25:57.248] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
+[30May2025 00:25:57.415] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
+[30May2025 00:25:57.419] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
+[30May2025 00:25:57.420] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
+[30May2025 00:25:57.430] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
+[30May2025 00:25:57.432] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
+[30May2025 00:25:57.433] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
+[30May2025 00:25:57.446] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
+[30May2025 00:25:57.457] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
+[30May2025 00:25:57.479] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
+[30May2025 00:25:57.486] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
+[30May2025 00:25:57.498] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
+[30May2025 00:25:57.508] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
+[30May2025 00:25:57.542] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
+[30May2025 00:25:57.697] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
+[30May2025 00:25:57.704] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
+[30May2025 00:25:57.725] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[30May2025 00:25:57.745] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
+[30May2025 00:25:57.776] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
+[30May2025 00:25:57.801] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
+[30May2025 00:25:57.814] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
+[30May2025 00:25:57.816] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[30May2025 00:25:57.850] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
+[30May2025 00:25:57.891] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
+[30May2025 00:25:57.896] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
+[30May2025 00:25:57.896] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
+[30May2025 00:25:57.902] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[30May2025 00:25:57.979] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[30May2025 00:25:58.017] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[30May2025 00:25:58.059] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
+[30May2025 00:25:58.150] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
+[30May2025 00:25:59.273] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[30May2025 00:25:59.509] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[30May2025 00:25:59.617] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[30May2025 00:26:07.373] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[30May2025 00:26:07.386] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[30May2025 00:26:07.388] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[30May2025 00:26:07.390] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[30May2025 00:26:07.542] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[30May2025 00:26:07.817] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[30May2025 00:26:07.841] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
+[30May2025 00:26:07.975] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[30May2025 00:26:07.981] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
+[30May2025 00:26:08.014] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[30May2025 00:26:08.067] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[30May2025 00:26:08.117] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[30May2025 00:26:08.121] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[30May2025 00:26:08.135] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[30May2025 00:26:08.135] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[30May2025 00:26:08.135] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[30May2025 00:26:08.135] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[30May2025 00:26:08.135] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[30May2025 00:26:08.135] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[30May2025 00:26:08.135] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[30May2025 00:26:08.135] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[30May2025 00:26:08.135] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[30May2025 00:26:08.136] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[30May2025 00:26:08.147] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[30May2025 00:26:08.265] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[30May2025 00:26:08.304] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[30May2025 00:26:08.305] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[30May2025 00:26:08.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Starting version check at https://api.modrinth.com/updates/create-jetpack/forge_updates.json
+[30May2025 00:26:08.305] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[30May2025 00:26:08.688] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Found status: OUTDATED Current: 4.4.0 Target: 4.4.2
+[30May2025 00:26:08.690] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[30May2025 00:26:08.899] [main/INFO] [journeymap/]: Initializing Packet Registries
+[30May2025 00:26:09.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[30May2025 00:26:09.008] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_plus] Starting version check at http://changelogs.moddinglegacy.com/dungeons-plus.json
+[30May2025 00:26:09.039] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[30May2025 00:26:09.039] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[30May2025 00:26:09.039] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
+[30May2025 00:26:09.039] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
+[30May2025 00:26:09.040] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
+[30May2025 00:26:09.094] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_plus] Found status: BETA Current: 1.5.0 Target: null
+[30May2025 00:26:09.094] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
+[30May2025 00:26:09.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: AHEAD Current: 5.4.0 Target: null
+[30May2025 00:26:09.139] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Starting version check at https://mc-update-check.anthonyhilyard.com/521590
+[30May2025 00:26:09.157] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[30May2025 00:26:09.157] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[30May2025 00:26:09.217] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[30May2025 00:26:09.228] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[30May2025 00:26:09.229] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at bl4ckscor3.mod.globalxp.compat.WailaDataProvider
+[30May2025 00:26:09.230] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[30May2025 00:26:09.231] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[30May2025 00:26:09.246] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[30May2025 00:26:09.250] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[30May2025 00:26:09.251] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[30May2025 00:26:09.345] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Found status: UP_TO_DATE Current: 1.1.9 Target: null
+[30May2025 00:26:09.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[30May2025 00:26:09.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[30May2025 00:26:09.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[30May2025 00:26:09.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.5
+[30May2025 00:26:09.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
+[30May2025 00:26:09.443] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.1 Target: 1.7.1
+[30May2025 00:26:09.444] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[30May2025 00:26:09.463] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: OUTDATED Current: 8.0.2 Target: 8.0.3
+[30May2025 00:26:09.463] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[30May2025 00:26:09.642] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[30May2025 00:26:09.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.20.1
+[30May2025 00:26:09.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA Current: 14.0.57 Target: 14.0.57
+[30May2025 00:26:09.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[30May2025 00:26:10.003] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[30May2025 00:26:10.003] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30May2025 00:26:10.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[30May2025 00:26:10.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[30May2025 00:26:10.635] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.26 Target: 1.20.1-2.5.30
+[30May2025 00:26:10.636] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[30May2025 00:26:10.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: OUTDATED Current: 1.1.13 Target: 1.1.25
+[30May2025 00:26:10.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createcasing] Starting version check at https://api.modrinth.com/updates/create-encased/forge_updates.json
+[30May2025 00:26:10.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createcasing] Found status: UP_TO_DATE Current: 1.7.1-fix2 Target: null
+[30May2025 00:26:10.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[30May2025 00:26:10.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[30May2025 00:26:10.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[30May2025 00:26:10.820] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.29 Target: 8.1.32
+[30May2025 00:26:22.343] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30May2025 00:26:30.621] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MI-servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23311!/assets/.mcassetsroot' uses unexpected schema
+[30May2025 00:26:30.622] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MI-servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23311!/data/.mcassetsroot' uses unexpected schema
+[30May2025 00:26:30.914] [main/INFO] [com.simibubi.create.Create/]: Created 646 recipes which will be injected into the game
+[30May2025 00:26:30.930] [main/INFO] [com.simibubi.create.Create/]: Created 13 tags which will be injected into the game
+[30May2025 00:26:31.753] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:brigantine/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[30May2025 00:26:31.760] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_large/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[30May2025 00:26:31.760] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:frigate_medium/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[30May2025 00:26:31.767] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_cage/start_pool`: { spacing: 50, separation: 25, salt: 40842806, useValueFromConfiguration: true}
+[30May2025 00:26:31.767] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_quad/start_pool`: { spacing: 50, separation: 25, salt: 254835856, useValueFromConfiguration: true}
+[30May2025 00:26:31.767] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_pillager/start_pool`: { spacing: 50, separation: 25, salt: 254145856, useValueFromConfiguration: true}
+[30May2025 00:26:31.767] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_ruin_vanilla_temple/start_pool`: { spacing: 50, separation: 25, salt: 25482856, useValueFromConfiguration: true}
+[30May2025 00:26:31.768] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_temple_quad/start_pool`: { spacing: 50, separation: 25, salt: 35482856, useValueFromConfiguration: true}
+[30May2025 00:26:31.768] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_the_column_temple/start_pool`: { spacing: 50, separation: 25, salt: 15482856, useValueFromConfiguration: true}
+[30May2025 00:26:31.768] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Structure placement for `awesomedungeonocean:ocean_warn_temple/start_pool`: { spacing: 50, separation: 25, salt: 45482856, useValueFromConfiguration: true}
+[30May2025 00:26:32.777] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[30May2025 00:26:33.050] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
+[30May2025 00:26:33.259] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:needs_tool_level_1 as it is missing following references: nordic_structures:dwarfcavernspawner_1 (from nordic_structures-1.6.9-forge-1.20.1.jar), 
 	nordic_structures:dwarfcavernspawner_2 (from nordic_structures-1.6.9-forge-1.20.1.jar), 
 	nordic_structures:abandonednordicmine_1spawner (from nordic_structures-1.6.9-forge-1.20.1.jar), 
 	nordic_structures:abandonednordicmine_2spawner (from nordic_structures-1.6.9-forge-1.20.1.jar), 
 	nordic_structures:steelore (from nordic_structures-1.6.9-forge-1.20.1.jar)
-[29May2025 17:42:54.431] [Worker-Main-2/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file create_dd:crafting/tin_ingot_from_decompacting from create_dd:recipes/crafting/tin_ingot_from_decompacting.json
+[30May2025 00:26:33.476] [Worker-Main-2/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file create_dd:crafting/tin_ingot_from_decompacting from create_dd:recipes/crafting/tin_ingot_from_decompacting.json
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Expected name at line 6 column 6 path $.ingredients[0].item
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
@@ -320,7 +320,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	... 13 more
-[29May2025 17:42:54.433] [Worker-Main-2/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file create_dd:crafting/tin_nugget_from_decompacting from create_dd:recipes/crafting/tin_nugget_from_decompacting.json
+[30May2025 00:26:33.478] [Worker-Main-2/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file create_dd:crafting/tin_nugget_from_decompacting from create_dd:recipes/crafting/tin_nugget_from_decompacting.json
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Expected name at line 6 column 6 path $.ingredients[0].item
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
@@ -345,8 +345,8 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	... 13 more
-[29May2025 17:42:55.783] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[29May2025 17:42:55.792] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:common/materials/steel_ingot_from_block
+[30May2025 00:26:34.810] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[30May2025 00:26:34.817] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:common/materials/steel_ingot_from_block
 com.google.gson.JsonSyntaxException: Unknown item 'tconstruct:steel_block'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -384,8 +384,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tconstruct:steel_block'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.806] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
-[29May2025 17:42:55.820] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:smeltery/casting/metal/steel/nugget_sand_cast
+[30May2025 00:26:34.829] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[30May2025 00:26:34.840] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:smeltery/casting/metal/steel/nugget_sand_cast
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:casting_table'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -414,7 +414,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.850] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_dd:crafting/steel_nugget_from_decompacting
+[30May2025 00:26:34.866] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_dd:crafting/steel_nugget_from_decompacting
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_nugget'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.4.0-universal.jar%23316!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.4.0-universal.jar%23316!/:?]
@@ -447,7 +447,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_nugget'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.854] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:smeltery/casting/metal/steel/block
+[30May2025 00:26:34.869] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:smeltery/casting/metal/steel/block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:casting_basin'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -476,8 +476,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.860] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
-[29May2025 17:42:55.872] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:smeltery/casting/metal/steel/nugget_gold_cast
+[30May2025 00:26:34.876] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[30May2025 00:26:34.884] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:smeltery/casting/metal/steel/nugget_gold_cast
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:casting_table'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -506,9 +506,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.876] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
-[29May2025 17:42:55.880] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
-[29May2025 17:42:55.887] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_ironworks:compat/molten_metals/splashing/steel_ingot_from_ceramic_mold
+[30May2025 00:26:34.888] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[30May2025 00:26:34.892] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[30May2025 00:26:34.898] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_ironworks:compat/molten_metals/splashing/steel_ingot_from_ceramic_mold
 com.google.gson.JsonSyntaxException: Unknown item 'molten_metals:molten_steel_ceramic_ingot_mold'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -547,7 +547,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'molten_metals:molten_steel_ce
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.893] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:common/materials/steel_ingot_from_nuggets
+[30May2025 00:26:34.904] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:common/materials/steel_ingot_from_nuggets
 com.google.gson.JsonSyntaxException: Unknown item 'tconstruct:steel_nugget'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -585,7 +585,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tconstruct:steel_nugget'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.896] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_ironworks:compat/dreams_and_desires/crushing_coal_piece
+[30May2025 00:26:34.908] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_ironworks:compat/dreams_and_desires/crushing_coal_piece
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:coal_piece'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -624,7 +624,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:coal_piece'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.903] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_dd:crafting/tin_ingot_from_compacting
+[30May2025 00:26:34.917] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_dd:crafting/tin_ingot_from_compacting
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:tin_nugget'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -662,8 +662,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:tin_nugget'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.909] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
-[29May2025 17:42:55.909] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:smeltery/casting/metal/steel/plate_gold_cast
+[30May2025 00:26:34.924] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[30May2025 00:26:34.925] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:smeltery/casting/metal/steel/plate_gold_cast
 com.google.gson.JsonSyntaxException: Unknown condition type: mantle:tag_filled
 	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:231) ~[forge-1.20.1-47.4.0-universal.jar%23316!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.processConditions(CraftingHelper.java:220) ~[forge-1.20.1-47.4.0-universal.jar%23316!/:?]
@@ -692,8 +692,8 @@ com.google.gson.JsonSyntaxException: Unknown condition type: mantle:tag_filled
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.911] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
-[29May2025 17:42:55.913] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_dd:crafting/tin_block_from_compacting
+[30May2025 00:26:34.927] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[30May2025 00:26:34.929] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_dd:crafting/tin_block_from_compacting
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:tin_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -731,7 +731,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:tin_ingot'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.929] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:smeltery/casting/metal/steel/ingot_sand_cast
+[30May2025 00:26:34.948] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:smeltery/casting/metal/steel/ingot_sand_cast
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:casting_table'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -760,7 +760,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.930] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:smeltery/casting/metal/steel/ingot_gold_cast
+[30May2025 00:26:34.949] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:smeltery/casting/metal/steel/ingot_gold_cast
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstruct:casting_table'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -789,7 +789,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tconstr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.933] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:common/materials/steel_block_from_ingots
+[30May2025 00:26:34.953] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:common/materials/steel_block_from_ingots
 com.google.gson.JsonSyntaxException: Unknown item 'tconstruct:steel_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -827,7 +827,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tconstruct:steel_ingot'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.934] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_ironworks:compat/molten_metals/splashing/tin_ingot_from_ceramic_mold
+[30May2025 00:26:34.954] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_ironworks:compat/molten_metals/splashing/tin_ingot_from_ceramic_mold
 com.google.gson.JsonSyntaxException: Unknown item 'molten_metals:molten_tin_ceramic_ingot_mold'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -866,7 +866,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'molten_metals:molten_tin_cera
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.939] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_ironworks:compat/dreams_and_desires/raw_tin_exchange
+[30May2025 00:26:34.960] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_ironworks:compat/dreams_and_desires/raw_tin_exchange
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:raw_tin'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -904,7 +904,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:raw_tin'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.943] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:common/materials/steel_nugget_from_ingot
+[30May2025 00:26:34.966] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:common/materials/steel_nugget_from_ingot
 com.google.gson.JsonSyntaxException: Unknown item 'tconstruct:steel_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -942,9 +942,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'tconstruct:steel_ingot'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.947] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
-[29May2025 17:42:55.961] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
-[29May2025 17:42:55.963] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_ironworks:compat/molten_metals/splashing/tin_ingot_from_metal_mold
+[30May2025 00:26:34.971] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[30May2025 00:26:34.983] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[30May2025 00:26:34.985] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_ironworks:compat/molten_metals/splashing/tin_ingot_from_metal_mold
 com.google.gson.JsonSyntaxException: Unknown item 'molten_metals:molten_tin_ingot_mold'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -983,8 +983,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'molten_metals:molten_tin_ingo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.966] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
-[29May2025 17:42:55.967] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_ironworks:compat/molten_metals/splashing/bronze_ingot_from_metal_mold
+[30May2025 00:26:34.988] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[30May2025 00:26:34.989] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_ironworks:compat/molten_metals/splashing/bronze_ingot_from_metal_mold
 com.google.gson.JsonSyntaxException: Unknown item 'molten_metals:molten_bronze_ingot_mold'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1023,7 +1023,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'molten_metals:molten_bronze_i
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.981] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_dd:crafting/steel_ingot_from_decompacting
+[30May2025 00:26:35.001] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_dd:crafting/steel_ingot_from_decompacting
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_ingot'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.4.0-universal.jar%23316!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.4.0-universal.jar%23316!/:?]
@@ -1056,7 +1056,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_ingot'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:55.985] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_ironworks:compat/molten_metals/splashing/bronze_ingot_from_ceramic_mold
+[30May2025 00:26:35.004] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_ironworks:compat/molten_metals/splashing/bronze_ingot_from_ceramic_mold
 com.google.gson.JsonSyntaxException: Unknown item 'molten_metals:molten_bronze_ceramic_ingot_mold'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1095,7 +1095,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'molten_metals:molten_bronze_c
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:56.330] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_ironworks:compat/molten_metals/splashing/steel_ingot_from_metal_mold
+[30May2025 00:26:35.358] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_ironworks:compat/molten_metals/splashing/steel_ingot_from_metal_mold
 com.google.gson.JsonSyntaxException: Unknown item 'molten_metals:molten_steel_ingot_mold'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1134,7 +1134,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'molten_metals:molten_steel_in
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:56.334] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:smeltery/casting/metal/steel/plate_sand_cast
+[30May2025 00:26:35.361] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe tconstruct:smeltery/casting/metal/steel/plate_sand_cast
 com.google.gson.JsonSyntaxException: Unknown condition type: mantle:tag_filled
 	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:231) ~[forge-1.20.1-47.4.0-universal.jar%23316!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.processConditions(CraftingHelper.java:220) ~[forge-1.20.1-47.4.0-universal.jar%23316!/:?]
@@ -1163,7 +1163,7 @@ com.google.gson.JsonSyntaxException: Unknown condition type: mantle:tag_filled
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:56.336] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_dd:crafting/steel_block_from_compacting
+[30May2025 00:26:35.363] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_dd:crafting/steel_block_from_compacting
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23311!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1201,7 +1201,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_ingot'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:56.338] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_dd:crafting/steel_ingot_from_compacting
+[30May2025 00:26:35.364] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_dd:crafting/steel_ingot_from_compacting
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_ingot'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.4.0-universal.jar%23316!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.4.0-universal.jar%23316!/:?]
@@ -1234,144 +1234,76 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_ingot'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29May2025 17:42:56.339] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
-[29May2025 17:42:56.351] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 39 recipes
-[29May2025 17:42:56.546] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5889 advancements
-[29May2025 17:42:56.571] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[29May2025 17:42:56.578] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[29May2025 17:42:56.578] [main/INFO] [Dungeon Crawl/]: Loading data...
-[29May2025 17:42:56.976] [main/INFO] [Dungeon Crawl/]: Done.
-[29May2025 17:42:57.491] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[29May2025 17:43:05.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[29May2025 17:43:05.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29May2025 17:43:05.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29May2025 17:43:05.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29May2025 17:43:05.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29May2025 17:43:05.223] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[29May2025 17:43:05.300] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[29May2025 17:43:05.300] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[29May2025 17:43:05.301] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[29May2025 17:43:05.301] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[29May2025 17:43:05.324] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
-[29May2025 17:43:05.324] [Thread-3/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[29May2025 17:43:05.325] [Thread-3/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[29May2025 17:43:05.332] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
-[29May2025 17:43:05.334] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[29May2025 17:43:05.334] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29May2025 17:43:05.336] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[29May2025 17:43:06.000] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[29May2025 17:43:06.001] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[29May2025 17:43:06.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[29May2025 17:43:09.549] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:0 potentially creating overlapping structures detected. Structure sets: [minecraft:mineshafts, minecraft:strongholds, minecraft:buried_treasures]
-[29May2025 17:43:09.549] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:254835856 potentially creating overlapping structures detected. Structure sets: [awesomedungeonocean:brigantine, awesomedungeonocean:ocean_quad]
-[29May2025 17:43:09.550] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387313 potentially creating overlapping structures detected. Structure sets: [minecraft:ocean_monuments, minecraft:end_cities, dungeoncrawl:dungeons]
-[29May2025 17:43:09.551] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:817997296 potentially creating overlapping structures detected. Structure sets: [ati_structures:underground_medium, ati_structures:aboveground_large]
-[29May2025 17:43:09.551] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:783 potentially creating overlapping structures detected. Structure sets: [nova_structures:taverns, nova_structures:badlands_miner_outpost]
-[29May2025 17:43:09.552] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:45482856 potentially creating overlapping structures detected. Structure sets: [awesomedungeonocean:frigate_medium, awesomedungeonocean:ocean_warn_temple]
-[29May2025 17:43:09.552] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:35482856 potentially creating overlapping structures detected. Structure sets: [awesomedungeonocean:ocean_temple_quad, awesomedungeonocean:frigate_large]
-[29May2025 17:43:09.553] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387312 potentially creating overlapping structures detected. Structure sets: [minecraft:villages, nova_structures:villages_jungle, nova_structures:villages_swamp]
-[29May2025 17:43:09.553] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:4533232 potentially creating overlapping structures detected. Structure sets: [nova_structures:illager_camp, nova_structures:nether_camps]
-[29May2025 17:43:09.554] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:239021 potentially creating overlapping structures detected. Structure sets: [nova_structures:desert_ruins, nova_structures:jungle_ruins]
-[29May2025 17:43:09.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29May2025 17:43:13.243] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29May2025 17:43:13.244] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29May2025 17:43:13.244] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29May2025 17:43:13.245] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29May2025 17:43:13.246] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29May2025 17:43:13.247] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29May2025 17:43:13.247] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29May2025 17:43:13.248] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29May2025 17:43:13.557] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[29May2025 17:43:14.056] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
-[29May2025 17:43:14.235] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4680 ms
-[29May2025 17:43:14.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.924s)! For help, type "help"
-[29May2025 17:43:14.310] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29May2025 17:43:14.342] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[29May2025 17:43:14.482] [VoiceChatServerThread/ERROR] [voicechat/]: [voicechat] Failed to parse bind IP address 'az-presented.gl.joinmc.link'
-java.net.UnknownHostException: az-presented.gl.joinmc.link: No address associated with hostname
-	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[?:?]
-	at java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:934) ~[?:?]
-	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1543) ~[?:?]
-	at java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852) ~[?:?]
-	at java.net.InetAddress.getAllByName0(InetAddress.java:1533) ~[?:?]
-	at java.net.InetAddress.getAllByName(InetAddress.java:1385) ~[?:?]
-	at java.net.InetAddress.getAllByName(InetAddress.java:1306) ~[?:?]
-	at java.net.InetAddress.getByName(InetAddress.java:1256) ~[?:?]
-	at de.maxhenkel.voicechat.plugins.impl.VoicechatSocketImpl.open(VoicechatSocketImpl.java:25) ~[voicechat-forge-1.20.1-2.5.26.jar%23306!/:1.20.1-2.5.26]
-	at de.maxhenkel.voicechat.voice.server.Server.run(Server.java:102) ~[voicechat-forge-1.20.1-2.5.26.jar%23306!/:1.20.1-2.5.26]
-[29May2025 17:43:14.483] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Binding to wildcard IP address
-[29May2025 17:43:14.483] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at az-presented.gl.joinmc.link:25565
-[29May2025 17:45:54.455] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[29May2025 17:45:54.580] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THEDIOS13[/127.39.67.169:48781] logged in with entity id 664 at (1067.5059186193428, 161.0, 1931.977154458028)
-[29May2025 17:45:54.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 joined the game
-[29May2025 17:45:54.809] [Server thread/INFO] [Jade/]: Syncing config to THEDIOS13 (f31706f0-2254-3868-a64f-4c0143803166)
-[29May2025 17:45:57.686] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of THEDIOS13 (18)
-[29May2025 17:45:57.688] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to THEDIOS13
-[29May2025 17:45:57.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
-[29May2025 17:49:56.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Funeral Theft]
-[29May2025 17:59:49.574] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1289, y=-51, z=1761}
-[29May2025 17:59:49.574] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1289, y=-51, z=1760}
-[29May2025 18:00:39.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8490ms or 169 ticks behind
-[29May2025 18:04:31.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chup23[/127.116.131.206:36787] logged in with entity id 5176 at (1054.4553593942142, 180.0, 1970.300000011921)
-[29May2025 18:04:31.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 joined the game
-[29May2025 18:04:31.473] [Server thread/INFO] [Jade/]: Syncing config to chup23 (fe553ec5-7f17-3f26-b383-18df65d8c40a)
-[29May2025 18:04:31.616] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of chup23 (18)
-[29May2025 18:04:31.617] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to chup23
-[29May2025 18:12:56.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THEDIOS13 was kicked for floating too long!
-[29May2025 18:12:56.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THEDIOS13 lost connection: Disconnected
-[29May2025 18:12:56.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 left the game
-[29May2025 18:12:56.429] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client THEDIOS13
-[29May2025 18:12:56.469] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[29May2025 18:13:19.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THEDIOS13[/127.39.67.169:60783] logged in with entity id 6539 at (1000.3136949231022, 188.4611054369346, 1986.4388165439339)
-[29May2025 18:13:19.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 joined the game
-[29May2025 18:13:19.943] [Server thread/INFO] [Jade/]: Syncing config to THEDIOS13 (f31706f0-2254-3868-a64f-4c0143803166)
-[29May2025 18:13:21.172] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of THEDIOS13 (18)
-[29May2025 18:13:21.173] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to THEDIOS13
-[29May2025 18:17:06.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Magic Writing]
-[29May2025 18:17:49.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has reached the goal [Statue's Bargain]
-[29May2025 18:18:02.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has reached the goal [Traveling lightning rod]
-[29May2025 18:18:40.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has completed the challenge [Hero of Hyrule]
-[29May2025 18:20:34.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Mine? Mine? Mine?]
-[29May2025 18:29:44.067] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10668, l='ServerLevel[world]', x=902.70, y=64.00, z=2185.45] died, message: 'Unemployed was pricked to death'
-[29May2025 18:31:34.215] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Hendrick Van der Decken'/9398, l='ServerLevel[world]', x=775.70, y=282.00, z=2357.43] died: Hendrick Van der Decken was slain by THEDIOS13
-[29May2025 18:32:11.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Flying in the Air]
-[29May2025 18:34:54.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> zz
-[29May2025 18:34:55.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> z
-[29May2025 18:34:55.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> z
-[29May2025 18:34:56.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> z
-[29May2025 18:34:57.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> z
-[29May2025 18:44:17.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Traps and Curses]
-[29May2025 18:47:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has reached the goal [Powder Snow Walk]
-[29May2025 18:49:11.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has reached the goal [Exorcism]
-[29May2025 18:51:00.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has reached the goal [Dark Creator]
-[29May2025 18:59:51.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Mariachi?]
-[29May2025 19:04:24.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [We do a little trolling...]
-[29May2025 19:13:05.357] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=148, y=58, z=18}
-[29May2025 19:19:03.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has reached the goal [Big Boy]
-[29May2025 19:20:19.979] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-352, y=77, z=-83}
-[29May2025 19:20:19.993] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-357, y=72, z=-86}
-[29May2025 19:20:19.993] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-360, y=76, z=-87}
-[29May2025 19:20:19.993] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-353, y=77, z=-86}
-[29May2025 19:20:19.994] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=71, z=-94}
-[29May2025 19:24:44.718] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/30168, l='ServerLevel[world]', x=165.50, y=65.00, z=3892.17] died, message: 'Butcher was sniped by Archer'
-[29May2025 19:26:58.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of THEDIOS13) moved wrongly! 0.3692390178257483
-[29May2025 19:26:58.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of THEDIOS13) moved wrongly! 0.5867446636457316
-[29May2025 19:26:58.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Skeleton Horse (vehicle of THEDIOS13) moved wrongly! 0.80070706820743
-[29May2025 19:27:04.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Eh-eh-oh, eh-oh]
-[29May2025 19:27:09.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Eh-eh-oh, eh-oh]
-[29May2025 19:32:05.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Versatility]
-[29May2025 19:32:43.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [On the grapevine]
-[29May2025 19:33:16.558] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/29919, l='ServerLevel[world]', x=73.42, y=65.00, z=3845.38] died, message: 'Leatherworker was struck down by Legioner'
-[29May2025 19:33:50.080] [Server thread/WARN] [tombstone/]: The death event of the player THEDIOS13 was canceled by another mod
-[29May2025 19:33:50.099] [Server thread/INFO] [tombstone/]: The player THEDIOS13 has successfully been saved
-[29May2025 19:34:18.070] [Server thread/WARN] [tombstone/]: The death event of the player THEDIOS13 was canceled by another mod
-[29May2025 19:34:18.073] [Server thread/INFO] [tombstone/]: The player THEDIOS13 has successfully been saved
-[29May2025 19:39:59.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [People Are Strange]
-[29May2025 19:45:31.723] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30419, l='ServerLevel[world]', x=103.58, y=65.00, z=3920.60] died, message: 'Unemployed was shot by Pillager'
-[29May2025 19:48:26.272] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30191, l='ServerLevel[world]', x=68.82, y=65.00, z=3920.55] died, message: 'Unemployed was shot by Pillager'
-[29May2025 19:51:57.323] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/29728, l='ServerLevel[world]', x=77.93, y=87.00, z=3823.34] died, message: 'Leatherworker was slain by Zombie'
-[29May2025 19:51:59.321] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/30415, l='ServerLevel[world]', x=75.92, y=87.00, z=3823.42] died, message: 'Fisherman was slain by Zombie'
-[29May2025 19:52:01.727] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
-[29May2025 19:55:37.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THEDIOS13 lost connection: Disconnected
-[29May2025 19:55:37.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 left the game
-[29May2025 19:55:37.469] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client THEDIOS13
+[30May2025 00:26:35.366] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[30May2025 00:26:35.378] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 39 recipes
+[30May2025 00:26:35.588] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5889 advancements
+[30May2025 00:26:35.620] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[30May2025 00:26:35.629] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[30May2025 00:26:35.629] [main/INFO] [Dungeon Crawl/]: Loading data...
+[30May2025 00:26:35.856] [main/INFO] [Dungeon Crawl/]: Done.
+[30May2025 00:26:36.333] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[30May2025 00:26:43.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[30May2025 00:26:43.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30May2025 00:26:43.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30May2025 00:26:43.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30May2025 00:26:44.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30May2025 00:26:44.165] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[30May2025 00:26:44.256] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[30May2025 00:26:44.256] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[30May2025 00:26:44.257] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[30May2025 00:26:44.257] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[30May2025 00:26:44.281] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
+[30May2025 00:26:44.282] [Thread-3/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
+[30May2025 00:26:44.291] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[30May2025 00:26:44.293] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[30May2025 00:26:44.294] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30May2025 00:26:44.295] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30May2025 00:26:44.296] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30May2025 00:26:44.572] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[30May2025 00:26:45.047] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[30May2025 00:26:45.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[30May2025 00:26:48.458] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:0 potentially creating overlapping structures detected. Structure sets: [minecraft:mineshafts, minecraft:strongholds, minecraft:buried_treasures]
+[30May2025 00:26:48.458] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:254835856 potentially creating overlapping structures detected. Structure sets: [awesomedungeonocean:brigantine, awesomedungeonocean:ocean_quad]
+[30May2025 00:26:48.458] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387313 potentially creating overlapping structures detected. Structure sets: [minecraft:ocean_monuments, dungeoncrawl:dungeons, minecraft:end_cities]
+[30May2025 00:26:48.459] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:817997296 potentially creating overlapping structures detected. Structure sets: [ati_structures:underground_medium, ati_structures:aboveground_large]
+[30May2025 00:26:48.459] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:783 potentially creating overlapping structures detected. Structure sets: [nova_structures:taverns, nova_structures:badlands_miner_outpost]
+[30May2025 00:26:48.459] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:45482856 potentially creating overlapping structures detected. Structure sets: [awesomedungeonocean:frigate_medium, awesomedungeonocean:ocean_warn_temple]
+[30May2025 00:26:48.459] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:35482856 potentially creating overlapping structures detected. Structure sets: [awesomedungeonocean:ocean_temple_quad, awesomedungeonocean:frigate_large]
+[30May2025 00:26:48.460] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387312 potentially creating overlapping structures detected. Structure sets: [minecraft:villages, nova_structures:villages_jungle, nova_structures:villages_swamp]
+[30May2025 00:26:48.460] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:4533232 potentially creating overlapping structures detected. Structure sets: [nova_structures:illager_camp, nova_structures:nether_camps]
+[30May2025 00:26:48.460] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:239021 potentially creating overlapping structures detected. Structure sets: [nova_structures:desert_ruins, nova_structures:jungle_ruins]
+[30May2025 00:26:48.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30May2025 00:26:51.061] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:26:51.079] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:26:51.085] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:26:51.091] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:26:51.102] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:26:51.115] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:26:51.467] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:26:51.962] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 00:26:52.462] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[30May2025 00:26:52.853] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4392 ms
+[30May2025 00:26:52.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.585s)! For help, type "help"
+[30May2025 00:26:52.946] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30May2025 00:26:52.986] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[30May2025 00:26:52.998] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'az-presented.gl.joinmc.link'
+[30May2025 00:26:52.999] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
+[30May2025 00:27:08.302] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[30May2025 00:27:08.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THEDIOS13[/127.39.67.169:40005] logged in with entity id 663 at (61.33759549672863, 65.0, 3837.744047924799)
+[30May2025 00:27:08.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 joined the game
+[30May2025 00:27:08.685] [Server thread/INFO] [Jade/]: Syncing config to THEDIOS13 (f31706f0-2254-3868-a64f-4c0143803166)
+[30May2025 00:27:12.104] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of THEDIOS13 (18)
+[30May2025 00:27:12.106] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to THEDIOS13
+[30May2025 00:27:12.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3712ms or 74 ticks behind
+[30May2025 00:28:15.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has reached the goal [Greed may lead to loss]
+[30May2025 00:28:48.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chup23[/127.116.131.206:35059] logged in with entity id 1401 at (78.40213064419667, 66.0, 3820.690337487683)
+[30May2025 00:28:48.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 joined the game
+[30May2025 00:28:48.531] [Server thread/INFO] [Jade/]: Syncing config to chup23 (fe553ec5-7f17-3f26-b383-18df65d8c40a)
+[30May2025 00:28:48.820] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of chup23 (18)
+[30May2025 00:28:48.820] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to chup23
+[30May2025 00:29:28.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> zzzz
+[30May2025 00:29:29.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> zzz
+[30May2025 00:29:30.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> zz
+[30May2025 00:29:30.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> z
+[30May2025 00:29:31.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> z
+[30May2025 00:31:48.257] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=398, y=1, z=3563}
