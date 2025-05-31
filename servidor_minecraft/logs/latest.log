@@ -1319,3 +1319,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:steel_ingot'
 [30May2025 00:40:07.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [Where Is The Stone Pen?]
 [30May2025 00:43:12.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Call For Adventure]
 [30May2025 00:45:00.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [We do a little trolling...]
+[30May2025 00:46:15.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [It's an Emu!!!]
+[30May2025 00:48:52.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has reached the goal [Like a bird]
+[30May2025 00:49:09.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has made the advancement [People Are Strange]
+[30May2025 00:49:33.523] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[30May2025 00:53:08.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chup23 was kicked for floating too long!
+[30May2025 00:53:08.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chup23 lost connection: Flying is not enabled on this server
+[30May2025 00:53:08.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 left the game
+[30May2025 00:53:08.277] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client chup23
+[30May2025 00:53:55.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chup23[/127.116.131.206:48085] logged in with entity id 8951 at (24.643574778490667, 74.13633961575577, 3952.905929720802)
+[30May2025 00:53:55.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 joined the game
+[30May2025 00:53:55.454] [Server thread/INFO] [Jade/]: Syncing config to chup23 (fe553ec5-7f17-3f26-b383-18df65d8c40a)
+[30May2025 00:53:55.581] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of chup23 (18)
+[30May2025 00:53:55.582] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to chup23
+[30May2025 00:55:01.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <THEDIOS13> puto
+[30May2025 00:55:11.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <chup23> el que lo escribio
+[30May2025 00:57:07.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-120, y=73, z=3961} BlockPos{x=-121, y=71, z=3961}
+[30May2025 00:57:07.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-120, y=74, z=3961} BlockPos{x=-121, y=71, z=3961}
+[30May2025 00:58:35.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 has reached the goal [A little cleaning is necessary]
+[30May2025 00:58:42.157] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[30May2025 01:06:12.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <THEDIOS13> chup23 pete
+[30May2025 01:08:17.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Pic-A-Nic Basket?]
+[30May2025 01:08:17.983] [Server thread/WARN] [tombstone/]: The death event of the player chup23 was canceled by another mod
+[30May2025 01:08:17.992] [Server thread/WARN] [tombstone/]: The death event of the player THEDIOS13 was canceled by another mod
+[30May2025 01:08:18.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Double Trouble]
+[30May2025 01:08:19.348] [Server thread/INFO] [tombstone/]: The player chup23 has successfully been saved
+[30May2025 01:08:19.348] [Server thread/INFO] [tombstone/]: The player THEDIOS13 has successfully been saved
+[30May2025 01:08:42.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has reached the goal [Strong or Careful]
+[30May2025 01:08:42.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has completed the challenge [Almost Unkillable]
+[30May2025 01:08:42.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 was blown up by THEDIOS13 using [A Mongolian Bow]
+[30May2025 01:08:42.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [Your First Grave]
+[30May2025 01:08:45.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has made the advancement [The Most Useful Key]
+[30May2025 01:09:01.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: THEDIOS13 lost connection: Disconnected
+[30May2025 01:09:01.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 left the game
+[30May2025 01:09:01.972] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client THEDIOS13
+[30May2025 01:09:17.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 was blown up by THEDIOS13
+[30May2025 01:09:25.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: THEDIOS13[/127.39.67.169:35055] logged in with entity id 16648 at (2.5, 78.0, -0.5)
+[30May2025 01:09:25.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 joined the game
+[30May2025 01:09:25.148] [Server thread/INFO] [Jade/]: Syncing config to THEDIOS13 (f31706f0-2254-3868-a64f-4c0143803166)
+[30May2025 01:09:26.618] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of THEDIOS13 (18)
+[30May2025 01:09:26.618] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to THEDIOS13
+[30May2025 01:09:50.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: THEDIOS13 has reached the goal [A Fast Comeback]
+[30May2025 01:10:55.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [THEDIOS13: Teleported chup23 to THEDIOS13]
+[30May2025 01:19:09.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chup23 lost connection: Disconnected
+[30May2025 01:19:09.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chup23 left the game
+[30May2025 01:19:09.714] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client chup23
